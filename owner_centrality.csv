@@ -1,0 +1,75 @@
+owner,country,n_conflicts,degree_w,pagerank,betweenness,in_degree,uri,community
+United States,United States,8,57,0.05535965354835933,0.0,32,http://www.wikidata.org/entity/Q30,2
+French State,France,6,12,0.0047186225983946025,0.0,4,http://www.wikidata.org/entity/Q3591845,2
+Israel,Israel,6,16,0.007617633585208659,0.0,5,http://www.wikidata.org/entity/Q801,2
+France,France,6,15,0.014665098287250208,0.0,9,http://www.wikidata.org/entity/Q142,2
+Northrop Grumman Corporation,United States,5,11,0.0034528029349605205,0.0004490633820887863,3,http://www.wikidata.org/entity/Q329953,1
+Ministry of Economy and Finance,Italy,5,17,0.0045154317102700575,0.00011404784307016793,3,http://www.wikidata.org/entity/Q1116000,1
+Government of India,India,5,5,0.0017994286303493771,0.0,1,http://www.wikidata.org/entity/Q2767140,0
+Ministry of State Participations,Italy,5,17,0.0036548210294530814,3.563995095942748e-05,1,http://www.wikidata.org/entity/Q3858493,1
+Rheinmetall AG,Germany,5,6,0.0030394593588077344,0.0004651013600205285,3,http://www.wikidata.org/entity/Q161544,0
+Russia,Russia,5,20,0.03812903458330666,0.0,17,http://www.wikidata.org/entity/Q159,0
+Finmeccanica,Italy,4,4,0.0013860850541965912,7.127990191885496e-06,1,http://www.wikidata.org/entity/Q121010578,0
+Walloon Region,Belgium,4,5,0.0028533769840107664,0.0,1,http://www.wikidata.org/entity/Q231,1
+General Dynamics,United States,4,4,0.0025020608661236367,0.0002672996321957061,1,http://www.wikidata.org/entity/Q502940,1
+Lockheed Martin,United States,4,7,0.003390775476694864,0.00012830382345393893,3,http://www.wikidata.org/entity/Q7240,1
+Germany,Germany,4,11,0.012768468787316892,0.0,7,http://www.wikidata.org/entity/Q183,0
+Government of Argentina,Argentina,4,4,0.0017994286303493771,0.0,1,http://www.wikidata.org/entity/Q8508468,1
+General Motors,United States,4,12,0.003039459358807735,0.00011226584552219657,3,http://www.wikidata.org/entity/Q81965,1
+Oboronprom,Russia,4,14,0.004184263183636455,0.0003635274997861603,3,http://www.wikidata.org/entity/Q980831,0
+Rolls-Royce,United Kingdom,4,4,0.0021507447482365066,0.00017641775724916602,1,http://www.wikidata.org/entity/Q243278,1
+Rostec,Russia,4,23,0.017973909738170393,0.00017641775724916602,12,http://www.wikidata.org/entity/Q1840188,0
+Boeing,United States,4,13,0.00415543517073478,0.0001924557351809084,3,http://www.wikidata.org/entity/Q66,1
+United Kingdom,United Kingdom,4,11,0.006416598290656869,0.0,5,http://www.wikidata.org/entity/Q145,1
+Orcamat Limited,Cyprus,3,3,0.0015960591908396147,3.207595586348473e-05,1,http://www.wikidata.org/entity/Q58426751,0
+Netherlands,Kingdom of the Netherlands,3,5,0.00409805665441929,0.0,2,http://www.wikidata.org/entity/Q55,1
+Penta Investments Group Limited,Jersey,3,3,0.004398418330162881,0.0002940295954152767,1,http://www.wikidata.org/entity/Q58425902,0
+Poland,Poland,3,3,0.0026261157826549487,0.0,2,http://www.wikidata.org/entity/Q36,0
+"T69, svěřenský fond",Czech Republic,3,3,0.002329625605172923,0.0,1,http://www.wikidata.org/entity/Q107499727,0
+Textron,United States,3,6,0.0038041190528476493,2.1383970575656488e-05,3,http://www.wikidata.org/entity/Q2140315,1
+Turkey,Turkey,3,3,0.0026261157826549487,0.0,2,http://www.wikidata.org/entity/Q43,0
+Ukrainian Defense Industry,Ukraine,3,6,0.003390775476694864,3.207595586348473e-05,3,http://www.wikidata.org/entity/Q3739421,0
+Ministry of Finance,Spain,3,4,0.0023658491374174847,2.672996321957061e-05,1,http://www.wikidata.org/entity/Q54846440,1
+United Aircraft Corporation,Russia,3,17,0.009247766035557844,0.00016037977931742365,7,http://www.wikidata.org/entity/Q1136226,0
+"Ministry of Economics, Finance and Industrial and Digital Sovereignty",France,3,5,0.004130472163026538,0.00011761183816611068,1,http://www.wikidata.org/entity/Q1416512,1
+Ministry of Defense of Georgia,Georgia,3,3,0.0025020608661236367,0.0,1,http://www.wikidata.org/entity/Q3648988,0
+Adiele Holdings Limited,Cyprus,3,3,0.0015960591908396147,3.207595586348473e-05,1,http://www.wikidata.org/entity/Q58426620,0
+Bavariso Holdings Limited,Cyprus,3,3,0.0015960591908396147,3.207595586348473e-05,1,http://www.wikidata.org/entity/Q58426821,0
+"Aviation Industry Corporation of China, Ltd.",People's Republic of China,3,10,0.005746782017080267,0.00012830382345393893,6,http://www.wikidata.org/entity/Q2667719,0
+Burao Holdings Limited,Cyprus,3,3,0.0015960591908396147,3.207595586348473e-05,1,http://www.wikidata.org/entity/Q58426656,0
+Iran,Iran,3,4,0.003328748018429208,0.0,2,http://www.wikidata.org/entity/Q794,2
+Canada,Canada,3,7,0.006769760606824623,0.0,4,http://www.wikidata.org/entity/Q16,1
+Armstrong Whitworth,United Kingdom,3,5,0.004163009240614921,2.672996321957061e-05,3,http://www.wikidata.org/entity/Q689159,1
+Armstrong Siddeley Development,United Kingdom,3,5,0.0025258337296551986,1.0691985287828244e-05,3,http://www.wikidata.org/entity/Q106798217,1
+Australia,Australia,2,3,0.0026261157826549487,0.0,2,http://www.wikidata.org/entity/Q408,1
+BAIC Group,People's Republic of China,2,3,0.0015652402595692663,2.672996321957061e-05,1,http://www.wikidata.org/entity/Q814712,1
+Cabinet of Ministers of Ukraine,Ukraine,2,4,0.004619248705775445,5.345992643914122e-05,2,http://www.wikidata.org/entity/Q613729,0
+Switzerland,Switzerland,2,2,0.0025020608661236367,0.0,1,http://www.wikidata.org/entity/Q39,1
+Slovakia,Slovakia,2,2,0.0017994286303493771,0.0,1,http://www.wikidata.org/entity/Q214,1
+SK Group,Israel,2,2,0.0017994286303493771,5.345992643914122e-06,1,http://www.wikidata.org/entity/Q10213576,2
+Romania,Romania,2,2,0.0026261157826549487,0.0,2,http://www.wikidata.org/entity/Q218,0
+Lüke & Ortmeier Group,Germany,2,2,0.0025020608661236367,1.0691985287828244e-05,1,http://www.wikidata.org/entity/Q15907293,1
+Raytheon,United States,2,2,0.0017994286303493771,1.6037977931742366e-05,1,http://www.wikidata.org/entity/Q156644,2
+Lebanon,Lebanon,2,2,0.0017994286303493771,0.0,1,http://www.wikidata.org/entity/Q822,2
+Remington Outdoor Company,United States,2,2,0.0017994286303493771,1.0691985287828244e-05,1,http://www.wikidata.org/entity/Q5500548,2
+Croatia,Croatia,2,2,0.0017374011720837212,0.0,1,http://www.wikidata.org/entity/Q224,1
+Discount Investment Corp. Ltd.,Israel,2,2,0.0025020608661236367,2.1383970575656488e-05,1,http://www.wikidata.org/entity/Q2906460,2
+Japan,Japan,2,5,0.009735763009224331,0.0,5,http://www.wikidata.org/entity/Q17,1
+Israel Aerospace Industries Ltd,Israel,2,2,0.0017994286303493771,5.345992643914122e-06,1,http://www.wikidata.org/entity/Q876017,2
+Hawker Beechcraft,,2,2,0.0013860850541965912,5.880591908305534e-05,1,http://www.wikidata.org/entity/Q1510005,1
+Czech Republic,Czech Republic,2,2,0.003627327810379711,0.0,2,http://www.wikidata.org/entity/Q213,1
+Elbit Systems Ltd.,Israel,2,4,0.0026261157826549487,2.1383970575656488e-05,2,http://www.wikidata.org/entity/Q1325369,2
+Exor,Netherlands,2,4,0.00521665645273345,0.0002405696689761355,3,http://www.wikidata.org/entity/Q1384140,1
+OMPO Holding,Czech Republic,2,2,0.0021507447482365066,3.207595586348473e-05,1,http://www.wikidata.org/entity/Q56466264,0
+Belgium,Belgium,1,2,0.0039036456501644837,0.0,3,http://www.wikidata.org/entity/Q31,1
+State Military-Industrial Committee of Belarus,Belarus,1,1,0.0017994286303493771,5.345992643914122e-06,1,http://www.wikidata.org/entity/Q6487420,0
+Bosnia and Herzegovina,Bosnia and Herzegovina,1,1,0.0017994286303493771,0.0,1,http://www.wikidata.org/entity/Q225,1
+Ministry of Finance of Russian Federation,Russia,1,2,0.0037183371883107875,4.544093747327004e-05,1,http://www.wikidata.org/entity/Q1958033,0
+Thales Group,France,1,1,0.0017994286303493771,5.880591908305534e-05,1,http://www.wikidata.org/entity/Q1161666,0
+Brazil,Brazil,1,1,0.0017994286303493771,0.0,1,http://www.wikidata.org/entity/Q155,1
+Ukraine,Ukraine,1,3,0.008325040475854719,0.0,4,http://www.wikidata.org/entity/Q212,0
+Ministry of Economic Development of Russian Federation,Russia,1,2,0.0037183371883107875,4.544093747327004e-05,1,http://www.wikidata.org/entity/Q8631276,0
+OMZ,Russia,1,1,0.0017994286303493771,4.81139337952271e-05,1,http://www.wikidata.org/entity/Q1284333,1
+Almaz-Antey,Russia,1,2,0.0026261157826549487,5.345992643914122e-05,2,http://www.wikidata.org/entity/Q1331507,0
+Armenia,Armenia,1,1,0.0017994286303493771,0.0,1,http://www.wikidata.org/entity/Q399,0
+Mercedes-Benz Group,Germany,1,1,0.0020915257838746188,0.00012830382345393893,2,http://www.wikidata.org/entity/Q27530,1

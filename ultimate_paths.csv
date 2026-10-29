@@ -1,0 +1,608 @@
+conflict,manufacturer,manufacturerLabel,mode,depth,path
+nagorno_karabakh|ukraine,http://www.wikidata.org/entity/Q1027577,Rostvertol,all_links,3,Rostvertol -> Russian Helicopters -> Oboronprom -> Russia
+nagorno_karabakh|ukraine,http://www.wikidata.org/entity/Q1027577,Rostvertol,all_links,3,Rostvertol -> Russian Helicopters -> Oboronprom -> Tatarstan
+nagorno_karabakh|ukraine,http://www.wikidata.org/entity/Q1027577,Rostvertol,controlish,2,Rostvertol -> Russian Helicopters -> Rostec
+nagorno_karabakh|ukraine,http://www.wikidata.org/entity/Q1027577,Rostvertol,controlish,2,Rostvertol -> Russian Helicopters -> Oboronprom
+kosovo_1999,http://www.wikidata.org/entity/Q105557,Embraer,all_links,1,Embraer -> Brazil
+kosovo_1999,http://www.wikidata.org/entity/Q105557,Embraer,controlish,1,Embraer -> Brazil
+ukraine,http://www.wikidata.org/entity/Q111265299,DeViRo,all_links,0,DeViRo
+ukraine,http://www.wikidata.org/entity/Q111265299,DeViRo,controlish,0,DeViRo
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q112038007,Leonardo DRS,all_links,2,Leonardo DRS -> Leonardo -> investor
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q112038007,Leonardo DRS,all_links,2,Leonardo DRS -> Leonardo -> institutional investor
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q112038007,Leonardo DRS,all_links,4,Leonardo DRS -> Leonardo -> Istituto per la Ricostruzione Industriale -> Ministry of State Participations -> Italy
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q112038007,Leonardo DRS,controlish,2,Leonardo DRS -> Leonardo -> Ministry of Economy and Finance
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q112038007,Leonardo DRS,controlish,3,Leonardo DRS -> Leonardo -> Q3708633 -> Ministry of Economy and Finance
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q112038007,Leonardo DRS,controlish,2,Leonardo DRS -> Leonardo -> investor
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q112038007,Leonardo DRS,controlish,3,Leonardo DRS -> Leonardo -> Istituto per la Ricostruzione Industriale -> Ministry of State Participations
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q112038007,Leonardo DRS,controlish,2,Leonardo DRS -> Leonardo -> institutional investor
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q1122504,Remington Arms,all_links,2,Remington Arms -> Remington Outdoor Company -> Cerberus Capital Management
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q1122504,Remington Arms,controlish,1,Remington Arms -> Remington Outdoor Company
+afghanistan|iran_iraq|iraq|kosovo_1999,http://www.wikidata.org/entity/Q1138291,Curtiss-Wright,all_links,1,Curtiss-Wright -> United States
+afghanistan|iran_iraq|iraq|kosovo_1999,http://www.wikidata.org/entity/Q1138291,Curtiss-Wright,controlish,1,Curtiss-Wright -> United States
+iraq,http://www.wikidata.org/entity/Q11478590,Kawasaki Shipyard,all_links,1,Kawasaki Shipyard -> Japan
+iraq,http://www.wikidata.org/entity/Q11478590,Kawasaki Shipyard,controlish,1,Kawasaki Shipyard -> Japan
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q1148423,IMI Systems,all_links,3,IMI Systems -> Elbit Systems Ltd. -> Elbit Systems (United States) -> United States
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q1148423,IMI Systems,controlish,1,IMI Systems -> Elbit Systems Ltd.
+ukraine,http://www.wikidata.org/entity/Q118143926,Ukrspecsystems,all_links,1,Ukrspecsystems -> Ukraine
+ukraine,http://www.wikidata.org/entity/Q118143926,Ukrspecsystems,controlish,1,Ukrspecsystems -> Ukraine
+ukraine,http://www.wikidata.org/entity/Q1197016,Khrunichev State Research and Production Space Center,all_links,1,Khrunichev State Research and Production Space Center -> Russia
+ukraine,http://www.wikidata.org/entity/Q1197016,Khrunichev State Research and Production Space Center,controlish,1,Khrunichev State Research and Production Space Center -> Russia
+ukraine,http://www.wikidata.org/entity/Q12112408,Konotop aircraft repair plant Aviakon,all_links,1,Konotop aircraft repair plant Aviakon -> Ukraine
+ukraine,http://www.wikidata.org/entity/Q12112408,Konotop aircraft repair plant Aviakon,controlish,1,Konotop aircraft repair plant Aviakon -> Ukraine
+iraq|ukraine,http://www.wikidata.org/entity/Q12122080,Mayak,all_links,4,Mayak -> Ukrainian Defense Industry -> Cabinet of Ministers of Ukraine -> Verkhovna Rada -> Ukraine
+iraq|ukraine,http://www.wikidata.org/entity/Q12122080,Mayak,controlish,1,Mayak -> Ukrainian Defense Industry
+ukraine,http://www.wikidata.org/entity/Q125542287,Saratovsky Zenit Machine Plant,all_links,1,Saratovsky Zenit Machine Plant -> Russia
+ukraine,http://www.wikidata.org/entity/Q125542287,Saratovsky Zenit Machine Plant,controlish,1,Saratovsky Zenit Machine Plant -> Russia
+nagorno_karabakh,http://www.wikidata.org/entity/Q13136918,SPA Garni-Ler,all_links,1,SPA Garni-Ler -> Armenia
+nagorno_karabakh,http://www.wikidata.org/entity/Q13136918,SPA Garni-Ler,controlish,1,SPA Garni-Ler -> Armenia
+ukraine,http://www.wikidata.org/entity/Q131514784,Wild Hornets,all_links,0,Wild Hornets
+ukraine,http://www.wikidata.org/entity/Q131514784,Wild Hornets,controlish,0,Wild Hornets
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q1325369,Elbit Systems Ltd.,all_links,2,Elbit Systems Ltd. -> Elbit Systems (United States) -> United States
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q1325369,Elbit Systems Ltd.,controlish,2,Elbit Systems Ltd. -> Elbit Systems (United States) -> United States
+ukraine,http://www.wikidata.org/entity/Q1331507,Almaz-Antey,all_links,4,Almaz-Antey -> Federal Agency for State Property Management -> Ministry of Economic Development of Russian Federation -> Government of Russia -> Russia
+ukraine,http://www.wikidata.org/entity/Q1331507,Almaz-Antey,controlish,2,Almaz-Antey -> Federal Agency for State Property Management -> Ministry of Economic Development of Russian Federation
+ukraine,http://www.wikidata.org/entity/Q1331507,Almaz-Antey,controlish,2,Almaz-Antey -> Federal Agency for State Property Management -> Ministry of Finance of Russian Federation
+ukraine,http://www.wikidata.org/entity/Q13431465,Thales Air Defence,all_links,2,Thales Air Defence -> Thales Group -> employee stock ownership
+ukraine,http://www.wikidata.org/entity/Q13431465,Thales Air Defence,all_links,2,Thales Air Defence -> Thales Group -> public float
+ukraine,http://www.wikidata.org/entity/Q13431465,Thales Air Defence,all_links,2,Thales Air Defence -> Thales Group -> Q54734727
+ukraine,http://www.wikidata.org/entity/Q13431465,Thales Air Defence,all_links,2,Thales Air Defence -> Thales Group -> Q16626550
+ukraine,http://www.wikidata.org/entity/Q13431465,Thales Air Defence,all_links,2,Thales Air Defence -> Thales Group -> Présidence de la République française
+ukraine,http://www.wikidata.org/entity/Q13431465,Thales Air Defence,controlish,1,Thales Air Defence -> Thales Group
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q136426,Progress State Research and Production Rocket Space Center,all_links,1,Progress State Research and Production Rocket Space Center -> Russia
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q136426,Progress State Research and Production Rocket Space Center,controlish,1,Progress State Research and Production Rocket Space Center -> Russia
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q136478,Shenyang Aircraft Corporation,all_links,5,"Shenyang Aircraft Corporation -> Aviation Industry Corporation of China, Ltd. -> State-owned Assets Supervision and Administration Commission of the State Council -> State Council of the People's Republic of China -> National People's Congress -> People's Republic of China"
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q136478,Shenyang Aircraft Corporation,controlish,1,"Shenyang Aircraft Corporation -> Aviation Industry Corporation of China, Ltd."
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q136478,Shenyang Aircraft Corporation,controlish,2,"Shenyang Aircraft Corporation -> AVIC I -> Aviation Industry Corporation of China, Ltd."
+afghanistan|iraq,http://www.wikidata.org/entity/Q1391936,de Havilland Australia,all_links,1,de Havilland Australia -> Australia
+afghanistan|iraq,http://www.wikidata.org/entity/Q1391936,de Havilland Australia,controlish,1,de Havilland Australia -> Australia
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q1411762,Scaled Composites,all_links,2,Scaled Composites -> Northrop Grumman Corporation -> Geode Capital Management
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q1411762,Scaled Composites,all_links,2,Scaled Composites -> Northrop Grumman Corporation -> The Vanguard Group
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q1411762,Scaled Composites,all_links,2,Scaled Composites -> Northrop Grumman Corporation -> Wellington Management Company
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q1411762,Scaled Composites,all_links,2,Scaled Composites -> Northrop Grumman Corporation -> Franklin Templeton Investments
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q1411762,Scaled Composites,all_links,2,Scaled Composites -> Northrop Grumman Corporation -> Bank of America
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q1411762,Scaled Composites,controlish,1,Scaled Composites -> Northrop Grumman Corporation
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q1412290,Ryan Aeronautical,all_links,2,Ryan Aeronautical -> Detroit Aircraft -> United States
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q1412290,Ryan Aeronautical,controlish,2,Ryan Aeronautical -> Detroit Aircraft -> United States
+kosovo_1999,http://www.wikidata.org/entity/Q1428793,Sud-Aviation,all_links,1,Sud-Aviation -> France
+kosovo_1999,http://www.wikidata.org/entity/Q1428793,Sud-Aviation,controlish,1,Sud-Aviation -> France
+afghanistan|iraq|kosovo_1999|syria|ukraine,http://www.wikidata.org/entity/Q1433308,Harris Corporation,all_links,1,Harris Corporation -> United States
+afghanistan|iraq|kosovo_1999|syria|ukraine,http://www.wikidata.org/entity/Q1433308,Harris Corporation,controlish,1,Harris Corporation -> United States
+iraq,http://www.wikidata.org/entity/Q1469447,Winchester Repeating Arms Company,all_links,2,Winchester Repeating Arms Company -> Olin Corporation -> United States
+iraq,http://www.wikidata.org/entity/Q1469447,Winchester Repeating Arms Company,all_links,2,Winchester Repeating Arms Company -> Herstal Group -> Walloon Region
+iraq,http://www.wikidata.org/entity/Q1469447,Winchester Repeating Arms Company,controlish,2,Winchester Repeating Arms Company -> Olin Corporation -> United States
+iraq,http://www.wikidata.org/entity/Q1469447,Winchester Repeating Arms Company,controlish,2,Winchester Repeating Arms Company -> Herstal Group -> Walloon Region
+afghanistan|iran_iraq|iraq|kosovo_1999,http://www.wikidata.org/entity/Q1478657,Fábrica Argentina de Aviones,all_links,1,Fábrica Argentina de Aviones -> Government of Argentina
+afghanistan|iran_iraq|iraq|kosovo_1999,http://www.wikidata.org/entity/Q1478657,Fábrica Argentina de Aviones,controlish,1,Fábrica Argentina de Aviones -> Government of Argentina
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q148,People's Republic of China,all_links,0,People's Republic of China
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q148,People's Republic of China,controlish,0,People's Republic of China
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q1513679,Nord Aviation,all_links,1,Nord Aviation -> France
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q1513679,Nord Aviation,controlish,1,Nord Aviation -> France
+kosovo_1999,http://www.wikidata.org/entity/Q1517498,International Polar Foundation,all_links,1,International Polar Foundation -> Belgium
+kosovo_1999,http://www.wikidata.org/entity/Q1517498,International Polar Foundation,controlish,1,International Polar Foundation -> Belgium
+afghanistan|iraq|kosovo_1999,http://www.wikidata.org/entity/Q1532217,Gloster Aircraft Company,all_links,2,Gloster Aircraft Company -> Hawker Aircraft -> United Kingdom
+afghanistan|iraq|kosovo_1999,http://www.wikidata.org/entity/Q1532217,Gloster Aircraft Company,controlish,2,Gloster Aircraft Company -> Hawker Aircraft -> United Kingdom
+afghanistan|gaza|iraq|kosovo_1999|lebanon_2006|syria,http://www.wikidata.org/entity/Q154610,Rafael Advanced Defense Systems,all_links,1,Rafael Advanced Defense Systems -> Israel
+afghanistan|gaza|iraq|kosovo_1999|lebanon_2006|syria,http://www.wikidata.org/entity/Q154610,Rafael Advanced Defense Systems,controlish,1,Rafael Advanced Defense Systems -> Israel
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q154801,Komsomolsk-on-Amur,all_links,0,Komsomolsk-on-Amur
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q154801,Komsomolsk-on-Amur,controlish,0,Komsomolsk-on-Amur
+afghanistan|iraq|kosovo_1999,http://www.wikidata.org/entity/Q155573,Airbus Helicopters,all_links,3,Airbus Helicopters -> Airbus SE -> Gesellschaft zur Beteiligungsverwaltung mbH & Co. KG -> Germany
+afghanistan|iraq|kosovo_1999,http://www.wikidata.org/entity/Q155573,Airbus Helicopters,all_links,4,Airbus Helicopters -> Airbus SE -> Sociedad Estatal de Participaciones Industriales -> Ministry of Finance -> Spain
+afghanistan|iraq|kosovo_1999,http://www.wikidata.org/entity/Q155573,Airbus Helicopters,all_links,5,"Airbus Helicopters -> Airbus SE -> Agence des participations de l'État -> Ministry of Economics, Finance and Industrial and Digital Sovereignty -> Government of the French Republic -> France"
+afghanistan|iraq|kosovo_1999,http://www.wikidata.org/entity/Q155573,Airbus Helicopters,controlish,3,"Airbus Helicopters -> Airbus SE -> Agence des participations de l'État -> Ministry of Economics, Finance and Industrial and Digital Sovereignty"
+afghanistan|iraq|kosovo_1999,http://www.wikidata.org/entity/Q155573,Airbus Helicopters,controlish,3,Airbus Helicopters -> Airbus SE -> Sociedad Estatal de Participaciones Industriales -> Ministry of Finance
+afghanistan|iraq|kosovo_1999,http://www.wikidata.org/entity/Q155573,Airbus Helicopters,controlish,3,Airbus Helicopters -> Airbus SE -> Gesellschaft zur Beteiligungsverwaltung mbH & Co. KG -> Germany
+kosovo_1999,http://www.wikidata.org/entity/Q155896,Fokker,all_links,1,Fokker -> Germany
+kosovo_1999,http://www.wikidata.org/entity/Q155896,Fokker,all_links,1,Fokker -> Netherlands
+kosovo_1999,http://www.wikidata.org/entity/Q155896,Fokker,controlish,1,Fokker -> Germany
+kosovo_1999,http://www.wikidata.org/entity/Q155896,Fokker,controlish,1,Fokker -> Netherlands
+iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q1572992,Sokol,all_links,4,Sokol -> Russian Aircraft Corporation MiG -> United Aircraft Corporation -> Government of Russia -> Russia
+iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q1572992,Sokol,controlish,2,Sokol -> Russian Aircraft Corporation MiG -> United Aircraft Corporation
+iraq,http://www.wikidata.org/entity/Q158888,Yamaha Motor Company,all_links,1,Yamaha Motor Company -> Custody Bank of Japan
+iraq,http://www.wikidata.org/entity/Q158888,Yamaha Motor Company,all_links,1,Yamaha Motor Company -> The Master Trust Bank of Japan
+iraq,http://www.wikidata.org/entity/Q158888,Yamaha Motor Company,all_links,1,Yamaha Motor Company -> Northern Trust
+iraq,http://www.wikidata.org/entity/Q158888,Yamaha Motor Company,all_links,1,Yamaha Motor Company -> State Street Corporation
+iraq,http://www.wikidata.org/entity/Q158888,Yamaha Motor Company,all_links,2,Yamaha Motor Company -> Yamaha -> Japan
+iraq,http://www.wikidata.org/entity/Q158888,Yamaha Motor Company,controlish,0,Yamaha Motor Company
+iraq,http://www.wikidata.org/entity/Q158888,Yamaha Motor Company,controlish,2,Yamaha Motor Company -> Yamaha -> Japan
+afghanistan|iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q161544,Rheinmetall AG,all_links,1,Rheinmetall AG -> Goldman Sachs
+afghanistan|iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q161544,Rheinmetall AG,all_links,1,Rheinmetall AG -> Fidelity Investments
+afghanistan|iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q161544,Rheinmetall AG,all_links,1,Rheinmetall AG -> UBS
+afghanistan|iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q161544,Rheinmetall AG,all_links,1,Rheinmetall AG -> Société Générale
+afghanistan|iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q161544,Rheinmetall AG,all_links,1,Rheinmetall AG -> Bank of America
+afghanistan|iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q161544,Rheinmetall AG,controlish,0,Rheinmetall AG
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q1627738,Lockheed Martin Aeronautics,all_links,2,Lockheed Martin Aeronautics -> Lockheed Martin -> The Vanguard Group
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q1627738,Lockheed Martin Aeronautics,all_links,2,Lockheed Martin Aeronautics -> Lockheed Martin -> State Street Corporation
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q1627738,Lockheed Martin Aeronautics,all_links,2,Lockheed Martin Aeronautics -> Lockheed Martin -> BlackRock
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q1627738,Lockheed Martin Aeronautics,controlish,1,Lockheed Martin Aeronautics -> Lockheed Martin
+iran_iraq|iraq,http://www.wikidata.org/entity/Q16618290,ZTS Martin,all_links,1,ZTS Martin -> Slovakia
+iran_iraq|iraq,http://www.wikidata.org/entity/Q16618290,ZTS Martin,controlish,1,ZTS Martin -> Slovakia
+iran_iraq|kosovo_1999,http://www.wikidata.org/entity/Q166203,Mauser,all_links,2,Mauser -> Rheinmetall AG -> Goldman Sachs
+iran_iraq|kosovo_1999,http://www.wikidata.org/entity/Q166203,Mauser,all_links,2,Mauser -> Rheinmetall AG -> Fidelity Investments
+iran_iraq|kosovo_1999,http://www.wikidata.org/entity/Q166203,Mauser,all_links,2,Mauser -> Rheinmetall AG -> UBS
+iran_iraq|kosovo_1999,http://www.wikidata.org/entity/Q166203,Mauser,all_links,2,Mauser -> Rheinmetall AG -> Société Générale
+iran_iraq|kosovo_1999,http://www.wikidata.org/entity/Q166203,Mauser,all_links,2,Mauser -> Rheinmetall AG -> Bank of America
+iran_iraq|kosovo_1999,http://www.wikidata.org/entity/Q166203,Mauser,controlish,1,Mauser -> Rheinmetall AG
+ukraine,http://www.wikidata.org/entity/Q16678982,Mytishchi Machine-Building Plant,all_links,4,Mytishchi Machine-Building Plant -> Kalashnikov Concern -> Rostec -> Government of Russia -> Russia
+ukraine,http://www.wikidata.org/entity/Q16678982,Mytishchi Machine-Building Plant,controlish,2,Mytishchi Machine-Building Plant -> Kalashnikov Concern -> Rostec
+iraq|ukraine,http://www.wikidata.org/entity/Q1737487,Kazan Helicopters,all_links,3,Kazan Helicopters -> Russian Helicopters -> Oboronprom -> Russia
+iraq|ukraine,http://www.wikidata.org/entity/Q1737487,Kazan Helicopters,all_links,3,Kazan Helicopters -> Russian Helicopters -> Oboronprom -> Tatarstan
+iraq|ukraine,http://www.wikidata.org/entity/Q1737487,Kazan Helicopters,controlish,2,Kazan Helicopters -> Russian Helicopters -> Rostec
+iraq|ukraine,http://www.wikidata.org/entity/Q1737487,Kazan Helicopters,controlish,2,Kazan Helicopters -> Russian Helicopters -> Oboronprom
+ukraine,http://www.wikidata.org/entity/Q1762250,Uralvagonzavod,all_links,3,Uralvagonzavod -> Rostec -> Government of Russia -> Russia
+ukraine,http://www.wikidata.org/entity/Q1762250,Uralvagonzavod,controlish,1,Uralvagonzavod -> Rostec
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q1781354,Sud-Ouest,all_links,1,Sud-Ouest -> France
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q1781354,Sud-Ouest,controlish,1,Sud-Ouest -> France
+ukraine,http://www.wikidata.org/entity/Q1781702,Sistema,all_links,1,Sistema -> Vladimir Yevtushenkov
+ukraine,http://www.wikidata.org/entity/Q1781702,Sistema,controlish,0,Sistema
+ukraine,http://www.wikidata.org/entity/Q1783007,KBP Instrument Design Bureau,all_links,4,KBP Instrument Design Bureau -> Vysokotochnye Kompleksy -> Rostec -> Government of Russia -> Russia
+ukraine,http://www.wikidata.org/entity/Q1783007,KBP Instrument Design Bureau,controlish,2,KBP Instrument Design Bureau -> Vysokotochnye Kompleksy -> Rostec
+iraq,http://www.wikidata.org/entity/Q183275,Mitsubishi,all_links,1,Mitsubishi -> Japan
+iraq,http://www.wikidata.org/entity/Q183275,Mitsubishi,controlish,1,Mitsubishi -> Japan
+ukraine,http://www.wikidata.org/entity/Q18404482,558 aircraft repair plant,all_links,2,558 aircraft repair plant -> State Military-Industrial Committee of Belarus -> Belarus
+ukraine,http://www.wikidata.org/entity/Q18404482,558 aircraft repair plant,controlish,1,558 aircraft repair plant -> State Military-Industrial Committee of Belarus
+iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q188508,Russian Aircraft Corporation MiG,all_links,3,Russian Aircraft Corporation MiG -> United Aircraft Corporation -> Government of Russia -> Russia
+iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q188508,Russian Aircraft Corporation MiG,controlish,1,Russian Aircraft Corporation MiG -> United Aircraft Corporation
+afghanistan|iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q1889710,OTO Melara,all_links,2,OTO Melara -> Leonardo -> investor
+afghanistan|iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q1889710,OTO Melara,all_links,2,OTO Melara -> Leonardo -> institutional investor
+afghanistan|iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q1889710,OTO Melara,all_links,4,OTO Melara -> Leonardo -> Istituto per la Ricostruzione Industriale -> Ministry of State Participations -> Italy
+afghanistan|iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q1889710,OTO Melara,controlish,1,OTO Melara -> Finmeccanica
+afghanistan|iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q1889710,OTO Melara,controlish,2,OTO Melara -> Leonardo -> Ministry of Economy and Finance
+afghanistan|iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q1889710,OTO Melara,controlish,3,OTO Melara -> Leonardo -> Q3708633 -> Ministry of Economy and Finance
+afghanistan|iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q1889710,OTO Melara,controlish,2,OTO Melara -> Leonardo -> investor
+afghanistan|iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q1889710,OTO Melara,controlish,3,OTO Melara -> Leonardo -> Istituto per la Ricostruzione Industriale -> Ministry of State Participations
+ukraine,http://www.wikidata.org/entity/Q193007,Sukhoi,all_links,3,Sukhoi -> United Aircraft Corporation -> Government of Russia -> Russia
+ukraine,http://www.wikidata.org/entity/Q193007,Sukhoi,controlish,1,Sukhoi -> United Aircraft Corporation
+iraq,http://www.wikidata.org/entity/Q194009,Tupolev,all_links,3,Tupolev -> United Aircraft Corporation -> Government of Russia -> Russia
+iraq,http://www.wikidata.org/entity/Q194009,Tupolev,controlish,1,Tupolev -> United Aircraft Corporation
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q196253,Hughes Aircraft Company,all_links,2,Hughes Aircraft Company -> Raytheon -> The Vanguard Group
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q196253,Hughes Aircraft Company,all_links,2,Hughes Aircraft Company -> Raytheon -> Delaware Management Business Trust
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q196253,Hughes Aircraft Company,controlish,1,Hughes Aircraft Company -> Raytheon
+nagorno_karabakh|ukraine,http://www.wikidata.org/entity/Q1963006,Votkinsk Machine Building Plant,all_links,1,Votkinsk Machine Building Plant -> Russia
+nagorno_karabakh|ukraine,http://www.wikidata.org/entity/Q1963006,Votkinsk Machine Building Plant,controlish,1,Votkinsk Machine Building Plant -> Russia
+afghanistan|iran_iraq|iraq|kosovo_1999,http://www.wikidata.org/entity/Q1972599,SNCAC,all_links,1,SNCAC -> France
+afghanistan|iran_iraq|iraq|kosovo_1999,http://www.wikidata.org/entity/Q1972599,SNCAC,controlish,1,SNCAC -> France
+ukraine,http://www.wikidata.org/entity/Q1981626,Ulyanovsk Mechanical Plant,all_links,5,Ulyanovsk Mechanical Plant -> Almaz-Antey -> Federal Agency for State Property Management -> Ministry of Economic Development of Russian Federation -> Government of Russia -> Russia
+ukraine,http://www.wikidata.org/entity/Q1981626,Ulyanovsk Mechanical Plant,controlish,1,Ulyanovsk Mechanical Plant -> Almaz-Antey
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q1988415,Tadiran,all_links,4,Tadiran -> Q12408471 -> Discount Investment Corp. Ltd. -> Idb Development Corporation Ltd. -> Israel
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q1988415,Tadiran,controlish,2,Tadiran -> Q12408471 -> Discount Investment Corp. Ltd.
+ukraine,http://www.wikidata.org/entity/Q19909340,ZALA Aero,all_links,4,ZALA Aero -> Kalashnikov Concern -> Rostec -> Government of Russia -> Russia
+ukraine,http://www.wikidata.org/entity/Q19909340,ZALA Aero,controlish,2,ZALA Aero -> Kalashnikov Concern -> Rostec
+ukraine,http://www.wikidata.org/entity/Q1992233,Izhevsk Mechanical Plant,all_links,3,Izhevsk Mechanical Plant -> Rostec -> Government of Russia -> Russia
+ukraine,http://www.wikidata.org/entity/Q1992233,Izhevsk Mechanical Plant,controlish,1,Izhevsk Mechanical Plant -> Rostec
+ukraine,http://www.wikidata.org/entity/Q1992233,Izhevsk Mechanical Plant,controlish,2,Izhevsk Mechanical Plant -> Kalashnikov Concern -> Rostec
+kosovo_1999,http://www.wikidata.org/entity/Q2002470,Turkish Aerospace Industries,all_links,1,Turkish Aerospace Industries -> Turkey
+kosovo_1999,http://www.wikidata.org/entity/Q2002470,Turkish Aerospace Industries,controlish,1,Turkish Aerospace Industries -> Turkey
+ukraine,http://www.wikidata.org/entity/Q2012301,Obukhov State Plant,all_links,5,Obukhov State Plant -> Almaz-Antey -> Federal Agency for State Property Management -> Ministry of Economic Development of Russian Federation -> Government of Russia -> Russia
+ukraine,http://www.wikidata.org/entity/Q2012301,Obukhov State Plant,controlish,1,Obukhov State Plant -> Almaz-Antey
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q201815,McDonnell Douglas,all_links,2,McDonnell Douglas -> Boeing -> The Vanguard Group
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q201815,McDonnell Douglas,all_links,2,McDonnell Douglas -> Boeing -> T. Rowe Price
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q201815,McDonnell Douglas,all_links,2,McDonnell Douglas -> Boeing -> BlackRock
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q201815,McDonnell Douglas,all_links,2,McDonnell Douglas -> Boeing -> Newport Trust
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q201815,McDonnell Douglas,controlish,1,McDonnell Douglas -> Boeing
+ukraine,http://www.wikidata.org/entity/Q2025089,Bazalt,all_links,3,Bazalt -> Rostec -> Government of Russia -> Russia
+ukraine,http://www.wikidata.org/entity/Q2025089,Bazalt,controlish,1,Bazalt -> Rostec
+afghanistan|iraq|kosovo_1999|syria|ukraine,http://www.wikidata.org/entity/Q2058311,Litton Industries,all_links,2,Litton Industries -> Northrop Grumman Corporation -> Geode Capital Management
+afghanistan|iraq|kosovo_1999|syria|ukraine,http://www.wikidata.org/entity/Q2058311,Litton Industries,all_links,2,Litton Industries -> Northrop Grumman Corporation -> The Vanguard Group
+afghanistan|iraq|kosovo_1999|syria|ukraine,http://www.wikidata.org/entity/Q2058311,Litton Industries,all_links,2,Litton Industries -> Northrop Grumman Corporation -> Wellington Management Company
+afghanistan|iraq|kosovo_1999|syria|ukraine,http://www.wikidata.org/entity/Q2058311,Litton Industries,all_links,2,Litton Industries -> Northrop Grumman Corporation -> Franklin Templeton Investments
+afghanistan|iraq|kosovo_1999|syria|ukraine,http://www.wikidata.org/entity/Q2058311,Litton Industries,all_links,2,Litton Industries -> Northrop Grumman Corporation -> Bank of America
+afghanistan|iraq|kosovo_1999|syria|ukraine,http://www.wikidata.org/entity/Q2058311,Litton Industries,controlish,1,Litton Industries -> Northrop Grumman Corporation
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q211274,Polish People's Republic,all_links,0,Polish People's Republic
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q211274,Polish People's Republic,controlish,0,Polish People's Republic
+ukraine,http://www.wikidata.org/entity/Q212268,Antonov,all_links,3,Antonov -> Cabinet of Ministers of Ukraine -> Verkhovna Rada -> Ukraine
+ukraine,http://www.wikidata.org/entity/Q212268,Antonov,controlish,1,Antonov -> Ukrainian Defense Industry
+ukraine,http://www.wikidata.org/entity/Q212268,Antonov,controlish,1,Antonov -> Cabinet of Ministers of Ukraine
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q221419,Ilyushin,all_links,3,Ilyushin -> United Aircraft Corporation -> Government of Russia -> Russia
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q221419,Ilyushin,controlish,1,Ilyushin -> United Aircraft Corporation
+ukraine,http://www.wikidata.org/entity/Q2299928,Tula Arms Plant,all_links,3,Tula Arms Plant -> Rostec -> Government of Russia -> Russia
+ukraine,http://www.wikidata.org/entity/Q2299928,Tula Arms Plant,controlish,1,Tula Arms Plant -> Rostec
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q238620,Knight's Armament Company,all_links,1,Knight's Armament Company -> United States
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q238620,Knight's Armament Company,controlish,1,Knight's Armament Company -> United States
+afghanistan|iraq|kosovo_1999,http://www.wikidata.org/entity/Q238765,Alliant Techsystems,all_links,1,Alliant Techsystems -> United States
+afghanistan|iraq|kosovo_1999,http://www.wikidata.org/entity/Q238765,Alliant Techsystems,controlish,1,Alliant Techsystems -> United States
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q2424888,Soltam Systems,all_links,3,Soltam Systems -> Elbit Systems Ltd. -> Elbit Systems (United States) -> United States
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q2424888,Soltam Systems,controlish,1,Soltam Systems -> Elbit Systems Ltd.
+afghanistan|iraq,http://www.wikidata.org/entity/Q243317,Marignane,all_links,0,Marignane
+afghanistan|iraq,http://www.wikidata.org/entity/Q243317,Marignane,controlish,0,Marignane
+iraq|ukraine,http://www.wikidata.org/entity/Q2582531,PZL-Świdnik,all_links,2,PZL-Świdnik -> Leonardo -> investor
+iraq|ukraine,http://www.wikidata.org/entity/Q2582531,PZL-Świdnik,all_links,2,PZL-Świdnik -> Leonardo -> institutional investor
+iraq|ukraine,http://www.wikidata.org/entity/Q2582531,PZL-Świdnik,all_links,4,PZL-Świdnik -> Leonardo -> Istituto per la Ricostruzione Industriale -> Ministry of State Participations -> Italy
+iraq|ukraine,http://www.wikidata.org/entity/Q2582531,PZL-Świdnik,controlish,2,PZL-Świdnik -> Leonardo -> Ministry of Economy and Finance
+iraq|ukraine,http://www.wikidata.org/entity/Q2582531,PZL-Świdnik,controlish,3,PZL-Świdnik -> Leonardo -> Q3708633 -> Ministry of Economy and Finance
+iraq|ukraine,http://www.wikidata.org/entity/Q2582531,PZL-Świdnik,controlish,2,PZL-Świdnik -> Leonardo -> investor
+iraq|ukraine,http://www.wikidata.org/entity/Q2582531,PZL-Świdnik,controlish,3,PZL-Świdnik -> Leonardo -> Istituto per la Ricostruzione Industriale -> Ministry of State Participations
+iraq|ukraine,http://www.wikidata.org/entity/Q2582531,PZL-Świdnik,controlish,2,PZL-Świdnik -> Leonardo -> institutional investor
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q2660084,Israel Weapon Industries,all_links,2,Israel Weapon Industries -> SK Group -> Sami Katsav
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q2660084,Israel Weapon Industries,controlish,1,Israel Weapon Industries -> SK Group
+iraq,http://www.wikidata.org/entity/Q2688386,Kure Naval Arsenal,all_links,0,Kure Naval Arsenal
+iraq,http://www.wikidata.org/entity/Q2688386,Kure Naval Arsenal,controlish,0,Kure Naval Arsenal
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q27436,Cadillac,all_links,2,Cadillac -> General Motors -> The Vanguard Group
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q27436,Cadillac,all_links,2,Cadillac -> General Motors -> BlackRock
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q27436,Cadillac,controlish,1,Cadillac -> General Motors
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q27489,DAF,all_links,2,DAF -> PACCAR -> United States
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q27489,DAF,controlish,2,DAF -> PACCAR -> United States
+afghanistan|kosovo_1999,http://www.wikidata.org/entity/Q27530,Mercedes-Benz Group,all_links,1,Mercedes-Benz Group -> Kuwait Investment Authority
+afghanistan|kosovo_1999,http://www.wikidata.org/entity/Q27530,Mercedes-Benz Group,all_links,1,Mercedes-Benz Group -> Li Shufu
+afghanistan|kosovo_1999,http://www.wikidata.org/entity/Q27530,Mercedes-Benz Group,all_links,2,Mercedes-Benz Group -> BAIC Group -> People's Republic of China
+afghanistan|kosovo_1999,http://www.wikidata.org/entity/Q27530,Mercedes-Benz Group,controlish,0,Mercedes-Benz Group
+afghanistan|kosovo_1999,http://www.wikidata.org/entity/Q27530,Mercedes-Benz Group,controlish,1,Mercedes-Benz Group -> BAIC Group
+iraq,http://www.wikidata.org/entity/Q27597,Fiat,all_links,3,Fiat -> Stellantis -> Exor -> Harris Associates
+iraq,http://www.wikidata.org/entity/Q27597,Fiat,all_links,3,Fiat -> Stellantis -> Bpifrance -> French State
+iraq,http://www.wikidata.org/entity/Q27597,Fiat,all_links,4,Fiat -> Stellantis -> Peugeot 1810 -> Établissements Peugeot Frères -> France
+iraq,http://www.wikidata.org/entity/Q27597,Fiat,all_links,4,Fiat -> Stellantis -> Exor -> Giovanni Agnelli -> Netherlands
+iraq,http://www.wikidata.org/entity/Q27597,Fiat,controlish,3,Fiat -> Stellantis -> Bpifrance -> French State
+iraq,http://www.wikidata.org/entity/Q27597,Fiat,controlish,2,Fiat -> Stellantis -> Exor
+iraq,http://www.wikidata.org/entity/Q27597,Fiat,controlish,4,Fiat -> Stellantis -> Peugeot 1810 -> Établissements Peugeot Frères -> France
+iraq,http://www.wikidata.org/entity/Q27597,Fiat,controlish,4,Fiat -> Stellantis -> Exor -> Giovanni Agnelli -> Netherlands
+kosovo_1999,http://www.wikidata.org/entity/Q276804,Robin Aircraft,all_links,1,Robin Aircraft -> France
+kosovo_1999,http://www.wikidata.org/entity/Q276804,Robin Aircraft,controlish,1,Robin Aircraft -> France
+iraq,http://www.wikidata.org/entity/Q2790777,Yokosuka Naval Arsenal,all_links,0,Yokosuka Naval Arsenal
+iraq,http://www.wikidata.org/entity/Q2790777,Yokosuka Naval Arsenal,controlish,0,Yokosuka Naval Arsenal
+iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q287734,Tbilisi Aircraft Manufacturing,all_links,2,Tbilisi Aircraft Manufacturing -> STC Delta -> Ministry of Defense of Georgia
+iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q287734,Tbilisi Aircraft Manufacturing,controlish,2,Tbilisi Aircraft Manufacturing -> STC Delta -> Ministry of Defense of Georgia
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q2909171,Elta,all_links,2,Elta -> Israel Aerospace Industries Ltd -> Israel
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q2909171,Elta,controlish,1,Elta -> Israel Aerospace Industries Ltd
+iraq|ukraine,http://www.wikidata.org/entity/Q302544,LET Aircraft Industries,all_links,2,LET Aircraft Industries -> Oboronprom -> Russia
+iraq|ukraine,http://www.wikidata.org/entity/Q302544,LET Aircraft Industries,all_links,2,LET Aircraft Industries -> Oboronprom -> Tatarstan
+iraq|ukraine,http://www.wikidata.org/entity/Q302544,LET Aircraft Industries,all_links,3,LET Aircraft Industries -> Omnipol -> OMPO Holding -> Richard Háva
+iraq|ukraine,http://www.wikidata.org/entity/Q302544,LET Aircraft Industries,all_links,3,LET Aircraft Industries -> Omnipol -> OMPO Holding -> Jiří Podpěra
+iraq|ukraine,http://www.wikidata.org/entity/Q302544,LET Aircraft Industries,all_links,3,LET Aircraft Industries -> Omnipol -> OMPO Holding -> Martin Háva
+iraq|ukraine,http://www.wikidata.org/entity/Q302544,LET Aircraft Industries,controlish,1,LET Aircraft Industries -> Oboronprom
+iraq|ukraine,http://www.wikidata.org/entity/Q302544,LET Aircraft Industries,controlish,2,LET Aircraft Industries -> Omnipol -> OMPO Holding
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q30291091,L3Harris Technologies,all_links,1,L3Harris Technologies -> United States
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q30291091,L3Harris Technologies,controlish,1,L3Harris Technologies -> United States
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q3052536,Harbin Aircraft Manufacturing Corporation,all_links,5,"Harbin Aircraft Manufacturing Corporation -> Aviation Industry Corporation of China, Ltd. -> State-owned Assets Supervision and Administration Commission of the State Council -> State Council of the People's Republic of China -> National People's Congress -> People's Republic of China"
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q3052536,Harbin Aircraft Manufacturing Corporation,controlish,1,"Harbin Aircraft Manufacturing Corporation -> Aviation Industry Corporation of China, Ltd."
+iraq,http://www.wikidata.org/entity/Q3071233,Fiat Aviazione,all_links,3,Fiat Aviazione -> Fiat Group -> Exor -> Harris Associates
+iraq,http://www.wikidata.org/entity/Q3071233,Fiat Aviazione,all_links,4,Fiat Aviazione -> Fiat Group -> Exor -> Giovanni Agnelli -> Netherlands
+iraq,http://www.wikidata.org/entity/Q3071233,Fiat Aviazione,all_links,4,Fiat Aviazione -> Fiat -> Stellantis -> Bpifrance -> French State
+iraq,http://www.wikidata.org/entity/Q3071233,Fiat Aviazione,all_links,5,Fiat Aviazione -> Fiat -> Stellantis -> Peugeot 1810 -> Établissements Peugeot Frères -> France
+iraq,http://www.wikidata.org/entity/Q3071233,Fiat Aviazione,controlish,2,Fiat Aviazione -> Fiat Group -> Exor
+iraq,http://www.wikidata.org/entity/Q3071233,Fiat Aviazione,controlish,4,Fiat Aviazione -> Fiat Group -> Exor -> Giovanni Agnelli -> Netherlands
+iraq,http://www.wikidata.org/entity/Q3071233,Fiat Aviazione,controlish,4,Fiat Aviazione -> Fiat -> Stellantis -> Bpifrance -> French State
+iraq,http://www.wikidata.org/entity/Q3071233,Fiat Aviazione,controlish,5,Fiat Aviazione -> Fiat -> Stellantis -> Peugeot 1810 -> Établissements Peugeot Frères -> France
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q3085781,Aeronautics Defense Systems,all_links,1,Aeronautics Defense Systems -> Israel
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q3085781,Aeronautics Defense Systems,controlish,1,Aeronautics Defense Systems -> Israel
+iraq,http://www.wikidata.org/entity/Q308889,Cessna,all_links,2,Cessna -> Textron -> United States
+iraq,http://www.wikidata.org/entity/Q308889,Cessna,controlish,1,Cessna -> Textron
+afghanistan|gaza|iraq|kosovo_1999|lebanon_2006|ukraine,http://www.wikidata.org/entity/Q329953,Northrop Grumman Corporation,all_links,1,Northrop Grumman Corporation -> Geode Capital Management
+afghanistan|gaza|iraq|kosovo_1999|lebanon_2006|ukraine,http://www.wikidata.org/entity/Q329953,Northrop Grumman Corporation,all_links,1,Northrop Grumman Corporation -> The Vanguard Group
+afghanistan|gaza|iraq|kosovo_1999|lebanon_2006|ukraine,http://www.wikidata.org/entity/Q329953,Northrop Grumman Corporation,all_links,1,Northrop Grumman Corporation -> Wellington Management Company
+afghanistan|gaza|iraq|kosovo_1999|lebanon_2006|ukraine,http://www.wikidata.org/entity/Q329953,Northrop Grumman Corporation,all_links,1,Northrop Grumman Corporation -> Franklin Templeton Investments
+afghanistan|gaza|iraq|kosovo_1999|lebanon_2006|ukraine,http://www.wikidata.org/entity/Q329953,Northrop Grumman Corporation,all_links,1,Northrop Grumman Corporation -> Bank of America
+afghanistan|gaza|iraq|kosovo_1999|lebanon_2006|ukraine,http://www.wikidata.org/entity/Q329953,Northrop Grumman Corporation,controlish,0,Northrop Grumman Corporation
+afghanistan|iraq,http://www.wikidata.org/entity/Q333498,Bombardier,all_links,1,Bombardier -> Canada
+afghanistan|iraq,http://www.wikidata.org/entity/Q333498,Bombardier,controlish,1,Bombardier -> Canada
+iraq|ukraine,http://www.wikidata.org/entity/Q333780,Yakovlev,all_links,3,Yakovlev -> United Aircraft Corporation -> Government of Russia -> Russia
+iraq|ukraine,http://www.wikidata.org/entity/Q333780,Yakovlev,controlish,1,Yakovlev -> United Aircraft Corporation
+iraq|ukraine,http://www.wikidata.org/entity/Q333780,Yakovlev,controlish,2,Yakovlev -> Yakovlev Corporation -> United Aircraft Corporation
+ukraine,http://www.wikidata.org/entity/Q3339447,Tactical Missiles Corporation,all_links,4,Tactical Missiles Corporation -> Federal Agency for State Property Management -> Ministry of Economic Development of Russian Federation -> Government of Russia -> Russia
+ukraine,http://www.wikidata.org/entity/Q3339447,Tactical Missiles Corporation,controlish,2,Tactical Missiles Corporation -> Federal Agency for State Property Management -> Ministry of Economic Development of Russian Federation
+ukraine,http://www.wikidata.org/entity/Q3339447,Tactical Missiles Corporation,controlish,2,Tactical Missiles Corporation -> Federal Agency for State Property Management -> Ministry of Finance of Russian Federation
+iraq,http://www.wikidata.org/entity/Q336811,Q336811,all_links,1,Q336811 -> Czech Republic
+iraq,http://www.wikidata.org/entity/Q336811,Q336811,controlish,1,Q336811 -> Czech Republic
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q3543800,KhAZ,all_links,4,KhAZ -> Ukrainian Defense Industry -> Cabinet of Ministers of Ukraine -> Verkhovna Rada -> Ukraine
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q3543800,KhAZ,controlish,1,KhAZ -> Ukrainian Defense Industry
+afghanistan|iran_iraq|iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q357095,Hindustan Aeronautics Limited,all_links,1,Hindustan Aeronautics Limited -> Government of India
+afghanistan|iran_iraq|iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q357095,Hindustan Aeronautics Limited,controlish,1,Hindustan Aeronautics Limited -> Government of India
+gaza|ukraine,http://www.wikidata.org/entity/Q3700371,NPO Novator,all_links,1,NPO Novator -> Russia
+gaza|ukraine,http://www.wikidata.org/entity/Q3700371,NPO Novator,controlish,1,NPO Novator -> Russia
+nagorno_karabakh|ukraine,http://www.wikidata.org/entity/Q3704976,KBM,all_links,4,KBM -> Vysokotochnye Kompleksy -> Rostec -> Government of Russia -> Russia
+nagorno_karabakh|ukraine,http://www.wikidata.org/entity/Q3704976,KBM,controlish,2,KBM -> Vysokotochnye Kompleksy -> Rostec
+iraq|ukraine,http://www.wikidata.org/entity/Q3739421,Ukrainian Defense Industry,all_links,3,Ukrainian Defense Industry -> Cabinet of Ministers of Ukraine -> Verkhovna Rada -> Ukraine
+iraq|ukraine,http://www.wikidata.org/entity/Q3739421,Ukrainian Defense Industry,controlish,1,Ukrainian Defense Industry -> Cabinet of Ministers of Ukraine
+afghanistan|iraq,http://www.wikidata.org/entity/Q374451,Boeing Rotorcraft Systems,all_links,2,Boeing Rotorcraft Systems -> Boeing -> The Vanguard Group
+afghanistan|iraq,http://www.wikidata.org/entity/Q374451,Boeing Rotorcraft Systems,all_links,2,Boeing Rotorcraft Systems -> Boeing -> T. Rowe Price
+afghanistan|iraq,http://www.wikidata.org/entity/Q374451,Boeing Rotorcraft Systems,all_links,2,Boeing Rotorcraft Systems -> Boeing -> BlackRock
+afghanistan|iraq,http://www.wikidata.org/entity/Q374451,Boeing Rotorcraft Systems,all_links,2,Boeing Rotorcraft Systems -> Boeing -> Newport Trust
+afghanistan|iraq,http://www.wikidata.org/entity/Q374451,Boeing Rotorcraft Systems,controlish,1,Boeing Rotorcraft Systems -> Boeing
+iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q381202,AERO Vodochody Aerospace,all_links,3,AERO Vodochody Aerospace -> Penta Investments Limited -> Penta Investments Group Limited -> Jaroslav Haščák
+iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q381202,AERO Vodochody Aerospace,all_links,4,AERO Vodochody Aerospace -> Penta Investments Limited -> Penta Investments Group Limited -> Orcamat Limited -> Eduard Maták
+iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q381202,AERO Vodochody Aerospace,all_links,4,AERO Vodochody Aerospace -> Penta Investments Limited -> Penta Investments Group Limited -> Adiele Holdings Limited -> Marek Dospiva
+iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q381202,AERO Vodochody Aerospace,all_links,4,AERO Vodochody Aerospace -> Penta Investments Limited -> Penta Investments Group Limited -> Burao Holdings Limited -> Jozef Oravkin
+iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q381202,AERO Vodochody Aerospace,all_links,4,"AERO Vodochody Aerospace -> Penta Investments Limited -> Penta Investments Group Limited -> Bonefeld Holdings Limited -> T69, svěřenský fond"
+iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q381202,AERO Vodochody Aerospace,controlish,2,AERO Vodochody Aerospace -> Penta Investments Limited -> Penta Investments Group Limited
+iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q381202,AERO Vodochody Aerospace,controlish,3,AERO Vodochody Aerospace -> Penta Investments Limited -> Penta Investments Group Limited -> Orcamat Limited
+iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q381202,AERO Vodochody Aerospace,controlish,3,AERO Vodochody Aerospace -> Penta Investments Limited -> Penta Investments Group Limited -> Adiele Holdings Limited
+iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q381202,AERO Vodochody Aerospace,controlish,3,AERO Vodochody Aerospace -> Penta Investments Limited -> Penta Investments Group Limited -> Burao Holdings Limited
+iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q381202,AERO Vodochody Aerospace,controlish,3,AERO Vodochody Aerospace -> Penta Investments Limited -> Penta Investments Group Limited -> Bavariso Holdings Limited
+iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q392438,Ulan-Ude Aviation Plant,all_links,3,Ulan-Ude Aviation Plant -> Russian Helicopters -> Oboronprom -> Russia
+iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q392438,Ulan-Ude Aviation Plant,all_links,3,Ulan-Ude Aviation Plant -> Russian Helicopters -> Oboronprom -> Tatarstan
+iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q392438,Ulan-Ude Aviation Plant,controlish,2,Ulan-Ude Aviation Plant -> Russian Helicopters -> Rostec
+iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q392438,Ulan-Ude Aviation Plant,controlish,2,Ulan-Ude Aviation Plant -> Russian Helicopters -> Oboronprom
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q398845,Agusta,all_links,2,Agusta -> Leonardo -> investor
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q398845,Agusta,all_links,2,Agusta -> Leonardo -> institutional investor
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q398845,Agusta,all_links,4,Agusta -> Leonardo -> Istituto per la Ricostruzione Industriale -> Ministry of State Participations -> Italy
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q398845,Agusta,controlish,2,Agusta -> Leonardo -> Ministry of Economy and Finance
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q398845,Agusta,controlish,3,Agusta -> Leonardo -> Q3708633 -> Ministry of Economy and Finance
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q398845,Agusta,controlish,2,Agusta -> Leonardo -> investor
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q398845,Agusta,controlish,3,Agusta -> Leonardo -> Istituto per la Ricostruzione Industriale -> Ministry of State Participations
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q398845,Agusta,controlish,2,Agusta -> Leonardo -> institutional investor
+afghanistan|iraq,http://www.wikidata.org/entity/Q398878,AgustaWestland,all_links,2,AgustaWestland -> Leonardo -> investor
+afghanistan|iraq,http://www.wikidata.org/entity/Q398878,AgustaWestland,all_links,2,AgustaWestland -> Leonardo -> institutional investor
+afghanistan|iraq,http://www.wikidata.org/entity/Q398878,AgustaWestland,all_links,4,AgustaWestland -> Leonardo -> Istituto per la Ricostruzione Industriale -> Ministry of State Participations -> Italy
+afghanistan|iraq,http://www.wikidata.org/entity/Q398878,AgustaWestland,controlish,2,AgustaWestland -> Leonardo -> Ministry of Economy and Finance
+afghanistan|iraq,http://www.wikidata.org/entity/Q398878,AgustaWestland,controlish,3,AgustaWestland -> Leonardo -> Q3708633 -> Ministry of Economy and Finance
+afghanistan|iraq,http://www.wikidata.org/entity/Q398878,AgustaWestland,controlish,2,AgustaWestland -> Leonardo -> investor
+afghanistan|iraq,http://www.wikidata.org/entity/Q398878,AgustaWestland,controlish,3,AgustaWestland -> Leonardo -> Istituto per la Ricostruzione Industriale -> Ministry of State Participations
+afghanistan|iraq,http://www.wikidata.org/entity/Q398878,AgustaWestland,controlish,2,AgustaWestland -> Leonardo -> institutional investor
+nagorno_karabakh,http://www.wikidata.org/entity/Q399,Armenia,all_links,0,Armenia
+nagorno_karabakh,http://www.wikidata.org/entity/Q399,Armenia,controlish,0,Armenia
+iraq,http://www.wikidata.org/entity/Q400153,PZL Mielec,all_links,2,PZL Mielec -> Lockheed Martin -> The Vanguard Group
+iraq,http://www.wikidata.org/entity/Q400153,PZL Mielec,all_links,2,PZL Mielec -> Lockheed Martin -> State Street Corporation
+iraq,http://www.wikidata.org/entity/Q400153,PZL Mielec,all_links,2,PZL Mielec -> Lockheed Martin -> BlackRock
+iraq,http://www.wikidata.org/entity/Q400153,PZL Mielec,controlish,1,PZL Mielec -> Lockheed Martin
+iraq,http://www.wikidata.org/entity/Q400153,PZL Mielec,controlish,2,PZL Mielec -> Sikorsky Aircraft Corporation -> Lockheed Martin
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q41053,Hezbollah,all_links,1,Hezbollah -> Lebanon
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q41053,Hezbollah,controlish,1,Hezbollah -> Lebanon
+ukraine,http://www.wikidata.org/entity/Q4128552,Vyborg Shipyard,all_links,2,Vyborg Shipyard -> United Shipbuilding Corporation -> Russia
+ukraine,http://www.wikidata.org/entity/Q4128552,Vyborg Shipyard,controlish,2,Vyborg Shipyard -> United Shipbuilding Corporation -> Russia
+ukraine,http://www.wikidata.org/entity/Q4130501,Vyatskiye Polyany Machine-Building Plant,all_links,1,Vyatskiye Polyany Machine-Building Plant -> Russia
+ukraine,http://www.wikidata.org/entity/Q4130501,Vyatskiye Polyany Machine-Building Plant,controlish,1,Vyatskiye Polyany Machine-Building Plant -> Russia
+iraq,http://www.wikidata.org/entity/Q4198224,Izhorskiye Zavody,all_links,2,Izhorskiye Zavody -> OMZ -> Gazprombank
+iraq,http://www.wikidata.org/entity/Q4198224,Izhorskiye Zavody,controlish,1,Izhorskiye Zavody -> OMZ
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q420843,Komsomolsk-on-Amur Aircraft Production Association,all_links,3,Komsomolsk-on-Amur Aircraft Production Association -> United Aircraft Corporation -> Government of Russia -> Russia
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q420843,Komsomolsk-on-Amur Aircraft Production Association,controlish,1,Komsomolsk-on-Amur Aircraft Production Association -> United Aircraft Corporation
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q420843,Komsomolsk-on-Amur Aircraft Production Association,controlish,2,Komsomolsk-on-Amur Aircraft Production Association -> Sukhoi -> United Aircraft Corporation
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q421005,Novosibirsk Aircraft Production Association,all_links,4,Novosibirsk Aircraft Production Association -> Sukhoi -> United Aircraft Corporation -> Government of Russia -> Russia
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q421005,Novosibirsk Aircraft Production Association,controlish,2,Novosibirsk Aircraft Production Association -> Sukhoi -> United Aircraft Corporation
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q42308,Kharkiv,all_links,0,Kharkiv
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q42308,Kharkiv,controlish,0,Kharkiv
+ukraine,http://www.wikidata.org/entity/Q429282,Novocherkassk Electric Locomotive Plant,all_links,2,Novocherkassk Electric Locomotive Plant -> Transmashholding -> http://www.wikidata.org/.well-known/genid/fa394b152e4bf3a70b022b174ef3033f
+ukraine,http://www.wikidata.org/entity/Q429282,Novocherkassk Electric Locomotive Plant,controlish,2,Novocherkassk Electric Locomotive Plant -> Transmashholding -> http://www.wikidata.org/.well-known/genid/fa394b152e4bf3a70b022b174ef3033f
+afghanistan|iraq,http://www.wikidata.org/entity/Q429877,Canadair,all_links,3,Canadair -> Bombardier Aerospace -> Bombardier -> Canada
+afghanistan|iraq,http://www.wikidata.org/entity/Q429877,Canadair,controlish,3,Canadair -> Bombardier Aerospace -> Bombardier -> Canada
+ukraine,http://www.wikidata.org/entity/Q4304815,Motovilikha Plants,all_links,3,Motovilikha Plants -> Rostec -> Government of Russia -> Russia
+ukraine,http://www.wikidata.org/entity/Q4304815,Motovilikha Plants,controlish,1,Motovilikha Plants -> Rostec
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q4408460,Saratov Aviation Plant,all_links,1,Saratov Aviation Plant -> Russia
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q4408460,Saratov Aviation Plant,controlish,1,Saratov Aviation Plant -> Russia
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q44294,Ford Motor Company,all_links,1,Ford Motor Company -> Ford family tree
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q44294,Ford Motor Company,controlish,1,Ford Motor Company -> Ford family tree
+ukraine,http://www.wikidata.org/entity/Q4466787,Tushino Machine-Building Plant,all_links,1,Tushino Machine-Building Plant -> Russia
+ukraine,http://www.wikidata.org/entity/Q4466787,Tushino Machine-Building Plant,controlish,1,Tushino Machine-Building Plant -> Russia
+ukraine,http://www.wikidata.org/entity/Q4476694,Uraltransmash,all_links,1,Uraltransmash -> Russia
+ukraine,http://www.wikidata.org/entity/Q4476694,Uraltransmash,controlish,1,Uraltransmash -> Russia
+ukraine,http://www.wikidata.org/entity/Q4529452,ENIKS,all_links,1,ENIKS -> Russia
+ukraine,http://www.wikidata.org/entity/Q4529452,ENIKS,controlish,1,ENIKS -> Russia
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q4549939,General Atomics Aeronautical Systems,all_links,3,General Atomics Aeronautical Systems -> General Atomics -> General Dynamics -> The Vanguard Group
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q4549939,General Atomics Aeronautical Systems,all_links,3,General Atomics Aeronautical Systems -> General Atomics -> General Dynamics -> Geode Capital Management
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q4549939,General Atomics Aeronautical Systems,all_links,3,General Atomics Aeronautical Systems -> General Atomics -> General Dynamics -> Longview Asset Management
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q4549939,General Atomics Aeronautical Systems,all_links,3,General Atomics Aeronautical Systems -> General Atomics -> General Dynamics -> Newport Trust Company
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q4549939,General Atomics Aeronautical Systems,all_links,3,General Atomics Aeronautical Systems -> General Atomics -> General Dynamics -> State Street Corporation
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q4549939,General Atomics Aeronautical Systems,controlish,2,General Atomics Aeronautical Systems -> General Atomics -> General Dynamics
+afghanistan|iraq,http://www.wikidata.org/entity/Q4577956,Aermacchi,all_links,2,Aermacchi -> Leonardo -> investor
+afghanistan|iraq,http://www.wikidata.org/entity/Q4577956,Aermacchi,all_links,2,Aermacchi -> Leonardo -> institutional investor
+afghanistan|iraq,http://www.wikidata.org/entity/Q4577956,Aermacchi,all_links,3,Aermacchi -> Lockheed Corporation -> Detroit Aircraft -> United States
+afghanistan|iraq,http://www.wikidata.org/entity/Q4577956,Aermacchi,all_links,5,Aermacchi -> Aeritalia -> Fiat -> Stellantis -> Exor -> Harris Associates
+afghanistan|iraq,http://www.wikidata.org/entity/Q4577956,Aermacchi,all_links,4,Aermacchi -> Leonardo -> Istituto per la Ricostruzione Industriale -> Ministry of State Participations -> Italy
+afghanistan|iraq,http://www.wikidata.org/entity/Q4577956,Aermacchi,controlish,2,Aermacchi -> Leonardo -> Ministry of Economy and Finance
+afghanistan|iraq,http://www.wikidata.org/entity/Q4577956,Aermacchi,controlish,3,Aermacchi -> Lockheed Corporation -> Detroit Aircraft -> United States
+afghanistan|iraq,http://www.wikidata.org/entity/Q4577956,Aermacchi,controlish,3,Aermacchi -> Leonardo -> Q3708633 -> Ministry of Economy and Finance
+afghanistan|iraq,http://www.wikidata.org/entity/Q4577956,Aermacchi,controlish,2,Aermacchi -> Leonardo -> investor
+afghanistan|iraq,http://www.wikidata.org/entity/Q4577956,Aermacchi,controlish,3,Aermacchi -> Leonardo -> Istituto per la Ricostruzione Industriale -> Ministry of State Participations
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q459965,Caterpillar Inc.,all_links,1,Caterpillar Inc. -> The Vanguard Group
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q459965,Caterpillar Inc.,all_links,1,Caterpillar Inc. -> State Street Corporation
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q459965,Caterpillar Inc.,all_links,1,Caterpillar Inc. -> BlackRock
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q459965,Caterpillar Inc.,controlish,0,Caterpillar Inc.
+afghanistan|kosovo_1999,http://www.wikidata.org/entity/Q463261,Grumman,all_links,2,Grumman -> Northrop Grumman Corporation -> Geode Capital Management
+afghanistan|kosovo_1999,http://www.wikidata.org/entity/Q463261,Grumman,all_links,2,Grumman -> Northrop Grumman Corporation -> The Vanguard Group
+afghanistan|kosovo_1999,http://www.wikidata.org/entity/Q463261,Grumman,all_links,2,Grumman -> Northrop Grumman Corporation -> Wellington Management Company
+afghanistan|kosovo_1999,http://www.wikidata.org/entity/Q463261,Grumman,all_links,2,Grumman -> Northrop Grumman Corporation -> Franklin Templeton Investments
+afghanistan|kosovo_1999,http://www.wikidata.org/entity/Q463261,Grumman,all_links,2,Grumman -> Northrop Grumman Corporation -> Bank of America
+afghanistan|kosovo_1999,http://www.wikidata.org/entity/Q463261,Grumman,controlish,1,Grumman -> Northrop Grumman Corporation
+afghanistan|gaza|iraq|kosovo_1999|lebanon_2006,http://www.wikidata.org/entity/Q502940,General Dynamics,all_links,1,General Dynamics -> The Vanguard Group
+afghanistan|gaza|iraq|kosovo_1999|lebanon_2006,http://www.wikidata.org/entity/Q502940,General Dynamics,all_links,1,General Dynamics -> Geode Capital Management
+afghanistan|gaza|iraq|kosovo_1999|lebanon_2006,http://www.wikidata.org/entity/Q502940,General Dynamics,all_links,1,General Dynamics -> Longview Asset Management
+afghanistan|gaza|iraq|kosovo_1999|lebanon_2006,http://www.wikidata.org/entity/Q502940,General Dynamics,all_links,1,General Dynamics -> Newport Trust Company
+afghanistan|gaza|iraq|kosovo_1999|lebanon_2006,http://www.wikidata.org/entity/Q502940,General Dynamics,all_links,1,General Dynamics -> State Street Corporation
+afghanistan|gaza|iraq|kosovo_1999|lebanon_2006,http://www.wikidata.org/entity/Q502940,General Dynamics,controlish,0,General Dynamics
+kosovo_1999,http://www.wikidata.org/entity/Q5158064,Conair Group,all_links,1,Conair Group -> Canada
+kosovo_1999,http://www.wikidata.org/entity/Q5158064,Conair Group,controlish,1,Conair Group -> Canada
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q519560,North American Aviation,all_links,2,North American Aviation -> General Motors -> The Vanguard Group
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q519560,North American Aviation,all_links,2,North American Aviation -> General Motors -> BlackRock
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q519560,North American Aviation,controlish,1,North American Aviation -> General Motors
+nagorno_karabakh,http://www.wikidata.org/entity/Q5196,Grozny,all_links,0,Grozny
+nagorno_karabakh,http://www.wikidata.org/entity/Q5196,Grozny,controlish,0,Grozny
+ukraine,http://www.wikidata.org/entity/Q5208288,Mangalia Shipyard,all_links,1,Mangalia Shipyard -> Romania
+ukraine,http://www.wikidata.org/entity/Q5208288,Mangalia Shipyard,controlish,1,Mangalia Shipyard -> Romania
+afghanistan|iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q534384,Maschinenbau Kiel,all_links,2,Maschinenbau Kiel -> Rheinmetall AG -> Goldman Sachs
+afghanistan|iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q534384,Maschinenbau Kiel,all_links,2,Maschinenbau Kiel -> Rheinmetall AG -> Fidelity Investments
+afghanistan|iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q534384,Maschinenbau Kiel,all_links,2,Maschinenbau Kiel -> Rheinmetall AG -> UBS
+afghanistan|iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q534384,Maschinenbau Kiel,all_links,2,Maschinenbau Kiel -> Rheinmetall AG -> Société Générale
+afghanistan|iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q534384,Maschinenbau Kiel,all_links,2,Maschinenbau Kiel -> Rheinmetall AG -> Bank of America
+afghanistan|iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q534384,Maschinenbau Kiel,controlish,1,Maschinenbau Kiel -> Rheinmetall AG
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q54173,General Electric,all_links,1,General Electric -> The Vanguard Group
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q54173,General Electric,all_links,1,General Electric -> Fidelity Investments
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q54173,General Electric,all_links,1,General Electric -> T. Rowe Price
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q54173,General Electric,all_links,1,General Electric -> Northern Trust
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q54173,General Electric,all_links,1,General Electric -> BlackRock
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q54173,General Electric,controlish,0,General Electric
+afghanistan|iraq,http://www.wikidata.org/entity/Q549189,Sikorsky Aircraft Corporation,all_links,2,Sikorsky Aircraft Corporation -> Lockheed Martin -> The Vanguard Group
+afghanistan|iraq,http://www.wikidata.org/entity/Q549189,Sikorsky Aircraft Corporation,all_links,2,Sikorsky Aircraft Corporation -> Lockheed Martin -> State Street Corporation
+afghanistan|iraq,http://www.wikidata.org/entity/Q549189,Sikorsky Aircraft Corporation,all_links,2,Sikorsky Aircraft Corporation -> Lockheed Martin -> BlackRock
+afghanistan|iraq,http://www.wikidata.org/entity/Q549189,Sikorsky Aircraft Corporation,controlish,1,Sikorsky Aircraft Corporation -> Lockheed Martin
+iraq,http://www.wikidata.org/entity/Q553599,Schichau Seebeckwerft,all_links,2,Schichau Seebeckwerft -> Bremer Vulkan -> Germany
+iraq,http://www.wikidata.org/entity/Q553599,Schichau Seebeckwerft,controlish,2,Schichau Seebeckwerft -> Bremer Vulkan -> Germany
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q5596873,Granville Brothers Aircraft,all_links,1,Granville Brothers Aircraft -> United States
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q5596873,Granville Brothers Aircraft,controlish,1,Granville Brothers Aircraft -> United States
+iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q560441,Chengdu Aircraft Industry Group,all_links,5,"Chengdu Aircraft Industry Group -> Aviation Industry Corporation of China, Ltd. -> State-owned Assets Supervision and Administration Commission of the State Council -> State Council of the People's Republic of China -> National People's Congress -> People's Republic of China"
+iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q560441,Chengdu Aircraft Industry Group,controlish,1,"Chengdu Aircraft Industry Group -> Aviation Industry Corporation of China, Ltd."
+iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q560441,Chengdu Aircraft Industry Group,controlish,2,"Chengdu Aircraft Industry Group -> AVIC I -> Aviation Industry Corporation of China, Ltd."
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q5616943,Guizhou Aircraft Industry Corporation,all_links,5,"Guizhou Aircraft Industry Corporation -> Aviation Industry Corporation of China, Ltd. -> State-owned Assets Supervision and Administration Commission of the State Council -> State Council of the People's Republic of China -> National People's Congress -> People's Republic of China"
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q5616943,Guizhou Aircraft Industry Corporation,controlish,1,"Guizhou Aircraft Industry Corporation -> Aviation Industry Corporation of China, Ltd."
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q5616943,Guizhou Aircraft Industry Corporation,controlish,2,"Guizhou Aircraft Industry Corporation -> AVIC I -> Aviation Industry Corporation of China, Ltd."
+afghanistan|iraq|kosovo_1999|syria|ukraine,http://www.wikidata.org/entity/Q582418,ITT Corporation,all_links,1,ITT Corporation -> United States
+afghanistan|iraq|kosovo_1999|syria|ukraine,http://www.wikidata.org/entity/Q582418,ITT Corporation,controlish,1,ITT Corporation -> United States
+kosovo_1999,http://www.wikidata.org/entity/Q591359,Steyr Arms,all_links,3,Steyr Arms -> Steyr-Daimler-Puch -> Reichswerke Hermann Göring -> Germany
+kosovo_1999,http://www.wikidata.org/entity/Q591359,Steyr Arms,all_links,3,Steyr Arms -> RSBC Industries -> Podfond RSBC Defence -> Czech Republic
+kosovo_1999,http://www.wikidata.org/entity/Q591359,Steyr Arms,controlish,3,Steyr Arms -> Steyr-Daimler-Puch -> Reichswerke Hermann Göring -> Germany
+kosovo_1999,http://www.wikidata.org/entity/Q591359,Steyr Arms,controlish,3,Steyr Arms -> RSBC Industries -> Podfond RSBC Defence -> Czech Republic
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q598758,Allison Engine Company,all_links,2,Allison Engine Company -> General Motors -> The Vanguard Group
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q598758,Allison Engine Company,all_links,2,Allison Engine Company -> General Motors -> BlackRock
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q598758,Allison Engine Company,all_links,3,Allison Engine Company -> Rolls-Royce North America -> Rolls-Royce -> Credit Suisse
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q598758,Allison Engine Company,all_links,3,Allison Engine Company -> Rolls-Royce North America -> Rolls-Royce -> ValueAct Capital
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q598758,Allison Engine Company,all_links,3,Allison Engine Company -> Rolls-Royce North America -> Rolls-Royce -> Capital Group Companies
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q598758,Allison Engine Company,controlish,1,Allison Engine Company -> General Motors
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q598758,Allison Engine Company,controlish,2,Allison Engine Company -> Rolls-Royce North America -> Rolls-Royce
+nagorno_karabakh|ukraine,http://www.wikidata.org/entity/Q6023024,Baykar,all_links,1,Baykar -> Turkey
+nagorno_karabakh|ukraine,http://www.wikidata.org/entity/Q6023024,Baykar,controlish,1,Baykar -> Turkey
+afghanistan|iraq|kosovo_1999,http://www.wikidata.org/entity/Q6038180,Insitu,all_links,3,"Insitu -> Boeing Defense, Space & Security -> Boeing -> The Vanguard Group"
+afghanistan|iraq|kosovo_1999,http://www.wikidata.org/entity/Q6038180,Insitu,all_links,3,"Insitu -> Boeing Defense, Space & Security -> Boeing -> T. Rowe Price"
+afghanistan|iraq|kosovo_1999,http://www.wikidata.org/entity/Q6038180,Insitu,all_links,3,"Insitu -> Boeing Defense, Space & Security -> Boeing -> BlackRock"
+afghanistan|iraq|kosovo_1999,http://www.wikidata.org/entity/Q6038180,Insitu,all_links,3,"Insitu -> Boeing Defense, Space & Security -> Boeing -> Newport Trust"
+afghanistan|iraq|kosovo_1999,http://www.wikidata.org/entity/Q6038180,Insitu,controlish,2,"Insitu -> Boeing Defense, Space & Security -> Boeing"
+gaza|ukraine,http://www.wikidata.org/entity/Q6066718,Iran Aircraft Manufacturing Industrial Company,all_links,2,Iran Aircraft Manufacturing Industrial Company -> Iran Aviation Industries Organization -> Iran
+gaza|ukraine,http://www.wikidata.org/entity/Q6066718,Iran Aircraft Manufacturing Industrial Company,controlish,2,Iran Aircraft Manufacturing Industrial Company -> Iran Aviation Industries Organization -> Iran
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q6066785,Iran Electronics Industries,all_links,1,Iran Electronics Industries -> Iran
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q6066785,Iran Electronics Industries,controlish,1,Iran Electronics Industries -> Iran
+kosovo_1999,http://www.wikidata.org/entity/Q60744961,Samsung Aerospace,all_links,0,Samsung Aerospace
+kosovo_1999,http://www.wikidata.org/entity/Q60744961,Samsung Aerospace,controlish,0,Samsung Aerospace
+afghanistan|iraq,http://www.wikidata.org/entity/Q613254,Pilatus Aircraft,all_links,2,Pilatus Aircraft -> OC Oerlikon -> Switzerland
+afghanistan|iraq,http://www.wikidata.org/entity/Q613254,Pilatus Aircraft,controlish,2,Pilatus Aircraft -> OC Oerlikon -> Switzerland
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q632404,Westinghouse Electric Corporation,all_links,2,Westinghouse Electric Corporation -> Paramount Global -> United States
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q632404,Westinghouse Electric Corporation,controlish,2,Westinghouse Electric Corporation -> Paramount Global -> United States
+afghanistan|iraq,http://www.wikidata.org/entity/Q634227,Beechcraft,all_links,2,Beechcraft -> Hawker Beechcraft -> Goldman Sachs
+afghanistan|iraq,http://www.wikidata.org/entity/Q634227,Beechcraft,all_links,2,Beechcraft -> Hawker Beechcraft -> Goldman Sachs Capital Partners
+afghanistan|iraq,http://www.wikidata.org/entity/Q634227,Beechcraft,all_links,3,Beechcraft -> Textron Aviation -> Textron -> United States
+afghanistan|iraq,http://www.wikidata.org/entity/Q634227,Beechcraft,all_links,3,Beechcraft -> Hawker Beechcraft -> Onex Corporation -> Canada
+afghanistan|iraq,http://www.wikidata.org/entity/Q634227,Beechcraft,controlish,2,Beechcraft -> Textron Aviation -> Textron
+afghanistan|iraq,http://www.wikidata.org/entity/Q634227,Beechcraft,controlish,1,Beechcraft -> Hawker Beechcraft
+afghanistan|iraq,http://www.wikidata.org/entity/Q634227,Beechcraft,controlish,3,Beechcraft -> Hawker Beechcraft -> Onex Corporation -> Canada
+ukraine,http://www.wikidata.org/entity/Q641230,Irkutsk Aviation Plant,all_links,4,Irkutsk Aviation Plant -> Yakovlev Corporation -> United Aircraft Corporation -> Government of Russia -> Russia
+ukraine,http://www.wikidata.org/entity/Q641230,Irkutsk Aviation Plant,controlish,2,Irkutsk Aviation Plant -> Yakovlev Corporation -> United Aircraft Corporation
+afghanistan|iraq|kosovo_1999|syria|ukraine,http://www.wikidata.org/entity/Q64141831,Elbit Systems (United States),all_links,1,Elbit Systems (United States) -> United States
+afghanistan|iraq|kosovo_1999|syria|ukraine,http://www.wikidata.org/entity/Q64141831,Elbit Systems (United States),controlish,1,Elbit Systems (United States) -> United States
+iraq,http://www.wikidata.org/entity/Q648280,Mitsubishi Heavy Industries,all_links,2,Mitsubishi Heavy Industries -> Mitsubishi -> Japan
+iraq,http://www.wikidata.org/entity/Q648280,Mitsubishi Heavy Industries,controlish,2,Mitsubishi Heavy Industries -> Mitsubishi -> Japan
+afghanistan|iraq|kosovo_1999,http://www.wikidata.org/entity/Q648292,Armstrong Whitworth Aircraft,all_links,2,"Armstrong Whitworth Aircraft -> Armstrong Whitworth -> William Armstrong, 1st Baron Armstrong"
+afghanistan|iraq|kosovo_1999,http://www.wikidata.org/entity/Q648292,Armstrong Whitworth Aircraft,controlish,1,Armstrong Whitworth Aircraft -> Armstrong Siddeley Development
+afghanistan|iraq|kosovo_1999,http://www.wikidata.org/entity/Q648292,Armstrong Whitworth Aircraft,controlish,1,Armstrong Whitworth Aircraft -> Armstrong Whitworth
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q649,Moscow,all_links,2,Moscow -> Infobip -> United Kingdom
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q649,Moscow,all_links,2,Moscow -> Infobip -> Croatia
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q649,Moscow,controlish,2,Moscow -> Infobip -> United Kingdom
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q649,Moscow,controlish,2,Moscow -> Infobip -> Croatia
+afghanistan|gaza|iraq|kosovo_1999|lebanon_2006|syria,http://www.wikidata.org/entity/Q650639,Aérospatiale,all_links,1,Aérospatiale -> French State
+afghanistan|gaza|iraq|kosovo_1999|lebanon_2006|syria,http://www.wikidata.org/entity/Q650639,Aérospatiale,controlish,1,Aérospatiale -> French State
+iraq|ukraine,http://www.wikidata.org/entity/Q65172176,Ural Works of Civil Aviation,all_links,3,Ural Works of Civil Aviation -> United Engine Corporation -> Oboronprom -> Russia
+iraq|ukraine,http://www.wikidata.org/entity/Q65172176,Ural Works of Civil Aviation,all_links,3,Ural Works of Civil Aviation -> United Engine Corporation -> Oboronprom -> Tatarstan
+iraq|ukraine,http://www.wikidata.org/entity/Q65172176,Ural Works of Civil Aviation,controlish,2,Ural Works of Civil Aviation -> United Engine Corporation -> Rostec
+iraq|ukraine,http://www.wikidata.org/entity/Q65172176,Ural Works of Civil Aviation,controlish,2,Ural Works of Civil Aviation -> United Engine Corporation -> Oboronprom
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q651778,Douglas,all_links,1,Douglas -> United States
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q651778,Douglas,controlish,1,Douglas -> United States
+afghanistan|gaza|iraq|kosovo_1999|lebanon_2006|syria,http://www.wikidata.org/entity/Q66,Boeing,all_links,1,Boeing -> The Vanguard Group
+afghanistan|gaza|iraq|kosovo_1999|lebanon_2006|syria,http://www.wikidata.org/entity/Q66,Boeing,all_links,1,Boeing -> T. Rowe Price
+afghanistan|gaza|iraq|kosovo_1999|lebanon_2006|syria,http://www.wikidata.org/entity/Q66,Boeing,all_links,1,Boeing -> BlackRock
+afghanistan|gaza|iraq|kosovo_1999|lebanon_2006|syria,http://www.wikidata.org/entity/Q66,Boeing,all_links,1,Boeing -> Newport Trust
+afghanistan|gaza|iraq|kosovo_1999|lebanon_2006|syria,http://www.wikidata.org/entity/Q66,Boeing,controlish,0,Boeing
+kosovo_1999,http://www.wikidata.org/entity/Q6686,Renault,all_links,2,Renault -> Mercedes-Benz Group -> Kuwait Investment Authority
+kosovo_1999,http://www.wikidata.org/entity/Q6686,Renault,all_links,1,Renault -> French State
+kosovo_1999,http://www.wikidata.org/entity/Q6686,Renault,all_links,2,Renault -> Mercedes-Benz Group -> Li Shufu
+kosovo_1999,http://www.wikidata.org/entity/Q6686,Renault,all_links,3,Renault -> Mercedes-Benz Group -> BAIC Group -> People's Republic of China
+kosovo_1999,http://www.wikidata.org/entity/Q6686,Renault,all_links,4,"Renault -> Agence des participations de l'État -> Ministry of Economics, Finance and Industrial and Digital Sovereignty -> Government of the French Republic -> France"
+kosovo_1999,http://www.wikidata.org/entity/Q6686,Renault,controlish,1,Renault -> French State
+kosovo_1999,http://www.wikidata.org/entity/Q6686,Renault,controlish,1,Renault -> Mercedes-Benz Group
+kosovo_1999,http://www.wikidata.org/entity/Q6686,Renault,controlish,2,Renault -> Mercedes-Benz Group -> BAIC Group
+kosovo_1999,http://www.wikidata.org/entity/Q6686,Renault,controlish,2,"Renault -> Agence des participations de l'État -> Ministry of Economics, Finance and Industrial and Digital Sovereignty"
+kosovo_1999,http://www.wikidata.org/entity/Q67,Airbus SAS,all_links,2,Airbus SAS -> Aérospatiale -> French State
+kosovo_1999,http://www.wikidata.org/entity/Q67,Airbus SAS,all_links,3,Airbus SAS -> Airbus SE -> Gesellschaft zur Beteiligungsverwaltung mbH & Co. KG -> Germany
+kosovo_1999,http://www.wikidata.org/entity/Q67,Airbus SAS,all_links,4,Airbus SAS -> Airbus SE -> Sociedad Estatal de Participaciones Industriales -> Ministry of Finance -> Spain
+kosovo_1999,http://www.wikidata.org/entity/Q67,Airbus SAS,all_links,5,"Airbus SAS -> Airbus SE -> Agence des participations de l'État -> Ministry of Economics, Finance and Industrial and Digital Sovereignty -> Government of the French Republic -> France"
+kosovo_1999,http://www.wikidata.org/entity/Q67,Airbus SAS,controlish,2,Airbus SAS -> Aérospatiale -> French State
+kosovo_1999,http://www.wikidata.org/entity/Q67,Airbus SAS,controlish,3,"Airbus SAS -> Airbus SE -> Agence des participations de l'État -> Ministry of Economics, Finance and Industrial and Digital Sovereignty"
+kosovo_1999,http://www.wikidata.org/entity/Q67,Airbus SAS,controlish,3,Airbus SAS -> Airbus SE -> Sociedad Estatal de Participaciones Industriales -> Ministry of Finance
+kosovo_1999,http://www.wikidata.org/entity/Q67,Airbus SAS,controlish,3,Airbus SAS -> Airbus SE -> Gesellschaft zur Beteiligungsverwaltung mbH & Co. KG -> Germany
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q6816,Ulan-Ude,all_links,0,Ulan-Ude
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q6816,Ulan-Ude,controlish,0,Ulan-Ude
+iran_iraq|kosovo_1999,http://www.wikidata.org/entity/Q705330,Sauer & Sohn,all_links,3,Sauer & Sohn -> Swiss Arms -> Lüke & Ortmeier Group -> Germany
+iran_iraq|kosovo_1999,http://www.wikidata.org/entity/Q705330,Sauer & Sohn,controlish,2,Sauer & Sohn -> Swiss Arms -> Lüke & Ortmeier Group
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q7100880,Technology and Maintenance Corps,all_links,0,Technology and Maintenance Corps
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q7100880,Technology and Maintenance Corps,controlish,0,Technology and Maintenance Corps
+ukraine,http://www.wikidata.org/entity/Q722976,Antonov Serial Production Plant,all_links,4,Antonov Serial Production Plant -> Antonov -> Cabinet of Ministers of Ukraine -> Verkhovna Rada -> Ukraine
+ukraine,http://www.wikidata.org/entity/Q722976,Antonov Serial Production Plant,controlish,2,Antonov Serial Production Plant -> Antonov -> Ukrainian Defense Industry
+ukraine,http://www.wikidata.org/entity/Q722976,Antonov Serial Production Plant,controlish,2,Antonov Serial Production Plant -> Antonov -> Cabinet of Ministers of Ukraine
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q7233,Lockheed Corporation,all_links,2,Lockheed Corporation -> Detroit Aircraft -> United States
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q7233,Lockheed Corporation,controlish,2,Lockheed Corporation -> Detroit Aircraft -> United States
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q7240,Lockheed Martin,all_links,1,Lockheed Martin -> The Vanguard Group
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q7240,Lockheed Martin,all_links,1,Lockheed Martin -> State Street Corporation
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q7240,Lockheed Martin,all_links,1,Lockheed Martin -> BlackRock
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q7240,Lockheed Martin,controlish,0,Lockheed Martin
+iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q726141,Dux Factory,all_links,1,Dux Factory -> Russia
+iraq|kosovo_1999|ukraine,http://www.wikidata.org/entity/Q726141,Dux Factory,controlish,1,Dux Factory -> Russia
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q739416,BAE Systems,all_links,1,BAE Systems -> United Kingdom
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q739416,BAE Systems,controlish,1,BAE Systems -> United Kingdom
+ukraine,http://www.wikidata.org/entity/Q7427495,Kalashnikov Concern,all_links,3,Kalashnikov Concern -> Rostec -> Government of Russia -> Russia
+ukraine,http://www.wikidata.org/entity/Q7427495,Kalashnikov Concern,controlish,1,Kalashnikov Concern -> Rostec
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q744498,Plasan,all_links,1,Plasan -> Israel
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q744498,Plasan,controlish,1,Plasan -> Israel
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q747353,FN Herstal,all_links,2,FN Herstal -> Herstal Group -> Walloon Region
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q747353,FN Herstal,controlish,2,FN Herstal -> Herstal Group -> Walloon Region
+ukraine,http://www.wikidata.org/entity/Q7491757,Shchetinin,all_links,1,Shchetinin -> Russia
+ukraine,http://www.wikidata.org/entity/Q7491757,Shchetinin,controlish,1,Shchetinin -> Russia
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q750141,McDonnell Aircraft Corporation,all_links,1,McDonnell Aircraft Corporation -> United States
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q750141,McDonnell Aircraft Corporation,controlish,1,McDonnell Aircraft Corporation -> United States
+iraq,http://www.wikidata.org/entity/Q767808,Aerostar,all_links,1,Aerostar -> Romania
+iraq,http://www.wikidata.org/entity/Q767808,Aerostar,controlish,1,Aerostar -> Romania
+iraq,http://www.wikidata.org/entity/Q780696,Austal,all_links,1,Austal -> Australia
+iraq,http://www.wikidata.org/entity/Q780696,Austal,controlish,1,Austal -> Australia
+afghanistan|kosovo_1999,http://www.wikidata.org/entity/Q791481,Avro Canada,all_links,3,Avro Canada -> Avro -> Hawker Siddeley -> United Kingdom
+afghanistan|kosovo_1999,http://www.wikidata.org/entity/Q791481,Avro Canada,all_links,4,"Avro Canada -> Avro -> Armstrong Siddeley -> Armstrong Whitworth -> William Armstrong, 1st Baron Armstrong"
+afghanistan|kosovo_1999,http://www.wikidata.org/entity/Q791481,Avro Canada,controlish,2,Avro Canada -> Avro -> Armstrong Siddeley Development
+afghanistan|kosovo_1999,http://www.wikidata.org/entity/Q791481,Avro Canada,controlish,3,Avro Canada -> Avro -> Hawker Siddeley -> United Kingdom
+afghanistan|kosovo_1999,http://www.wikidata.org/entity/Q791481,Avro Canada,controlish,3,Avro Canada -> Avro -> Armstrong Siddeley -> Armstrong Siddeley Development
+afghanistan|kosovo_1999,http://www.wikidata.org/entity/Q791481,Avro Canada,controlish,3,Avro Canada -> Avro -> Armstrong Siddeley -> Armstrong Whitworth
+gaza|iran_iraq|lebanon_2006,http://www.wikidata.org/entity/Q794,Iran,all_links,0,Iran
+gaza|iran_iraq|lebanon_2006,http://www.wikidata.org/entity/Q794,Iran,controlish,0,Iran
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q795324,"Boeing Defense, Space & Security",all_links,2,"Boeing Defense, Space & Security -> Boeing -> The Vanguard Group"
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q795324,"Boeing Defense, Space & Security",all_links,2,"Boeing Defense, Space & Security -> Boeing -> T. Rowe Price"
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q795324,"Boeing Defense, Space & Security",all_links,2,"Boeing Defense, Space & Security -> Boeing -> BlackRock"
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q795324,"Boeing Defense, Space & Security",all_links,2,"Boeing Defense, Space & Security -> Boeing -> Newport Trust"
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q795324,"Boeing Defense, Space & Security",controlish,1,"Boeing Defense, Space & Security -> Boeing"
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q808890,Barrett Firearms Manufacturing,all_links,1,Barrett Firearms Manufacturing -> United States
+gaza|lebanon_2006,http://www.wikidata.org/entity/Q808890,Barrett Firearms Manufacturing,controlish,1,Barrett Firearms Manufacturing -> United States
+afghanistan|iraq|kosovo_1999,http://www.wikidata.org/entity/Q815723,Bell Textron,all_links,2,Bell Textron -> Textron -> United States
+afghanistan|iraq|kosovo_1999,http://www.wikidata.org/entity/Q815723,Bell Textron,controlish,1,Bell Textron -> Textron
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q81965,General Motors,all_links,1,General Motors -> The Vanguard Group
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q81965,General Motors,all_links,1,General Motors -> BlackRock
+afghanistan|iraq|kosovo_1999|syria,http://www.wikidata.org/entity/Q81965,General Motors,controlish,0,General Motors
+ukraine,http://www.wikidata.org/entity/Q837412,LOMO,all_links,1,LOMO -> Russia
+ukraine,http://www.wikidata.org/entity/Q837412,LOMO,controlish,1,LOMO -> Russia
+ukraine,http://www.wikidata.org/entity/Q851367,Pivdenmash,all_links,2,Pivdenmash -> State Space Agency of Ukraine -> Ukraine
+ukraine,http://www.wikidata.org/entity/Q851367,Pivdenmash,controlish,2,Pivdenmash -> State Space Agency of Ukraine -> Ukraine
+afghanistan|gaza|iraq|kosovo_1999|lebanon_2006|syria,http://www.wikidata.org/entity/Q876017,Israel Aerospace Industries Ltd,all_links,1,Israel Aerospace Industries Ltd -> Israel
+afghanistan|gaza|iraq|kosovo_1999|lebanon_2006|syria,http://www.wikidata.org/entity/Q876017,Israel Aerospace Industries Ltd,controlish,1,Israel Aerospace Industries Ltd -> Israel
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q883,Novosibirsk,all_links,0,Novosibirsk
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q883,Novosibirsk,controlish,0,Novosibirsk
+iraq|ukraine,http://www.wikidata.org/entity/Q887,Yekaterinburg,all_links,0,Yekaterinburg
+iraq|ukraine,http://www.wikidata.org/entity/Q887,Yekaterinburg,controlish,0,Yekaterinburg
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q894,Samara,all_links,0,Samara
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q894,Samara,controlish,0,Samara
+iraq|nagorno_karabakh|ukraine,http://www.wikidata.org/entity/Q898825,Mil Moscow Helicopter Plant,all_links,3,Mil Moscow Helicopter Plant -> Russian Helicopters -> Oboronprom -> Russia
+iraq|nagorno_karabakh|ukraine,http://www.wikidata.org/entity/Q898825,Mil Moscow Helicopter Plant,all_links,3,Mil Moscow Helicopter Plant -> Russian Helicopters -> Oboronprom -> Tatarstan
+iraq|nagorno_karabakh|ukraine,http://www.wikidata.org/entity/Q898825,Mil Moscow Helicopter Plant,controlish,2,Mil Moscow Helicopter Plant -> Russian Helicopters -> Rostec
+iraq|nagorno_karabakh|ukraine,http://www.wikidata.org/entity/Q898825,Mil Moscow Helicopter Plant,controlish,2,Mil Moscow Helicopter Plant -> Russian Helicopters -> Oboronprom
+kosovo_1999,http://www.wikidata.org/entity/Q910379,Leonardo,all_links,1,Leonardo -> investor
+kosovo_1999,http://www.wikidata.org/entity/Q910379,Leonardo,all_links,1,Leonardo -> institutional investor
+kosovo_1999,http://www.wikidata.org/entity/Q910379,Leonardo,all_links,3,Leonardo -> Istituto per la Ricostruzione Industriale -> Ministry of State Participations -> Italy
+kosovo_1999,http://www.wikidata.org/entity/Q910379,Leonardo,controlish,1,Leonardo -> Ministry of Economy and Finance
+kosovo_1999,http://www.wikidata.org/entity/Q910379,Leonardo,controlish,2,Leonardo -> Q3708633 -> Ministry of Economy and Finance
+kosovo_1999,http://www.wikidata.org/entity/Q910379,Leonardo,controlish,1,Leonardo -> investor
+kosovo_1999,http://www.wikidata.org/entity/Q910379,Leonardo,controlish,2,Leonardo -> Istituto per la Ricostruzione Industriale -> Ministry of State Participations
+kosovo_1999,http://www.wikidata.org/entity/Q910379,Leonardo,controlish,1,Leonardo -> institutional investor
+ukraine,http://www.wikidata.org/entity/Q9182018,Mesko,all_links,1,Mesko -> Poland
+ukraine,http://www.wikidata.org/entity/Q9182018,Mesko,controlish,1,Mesko -> Poland
+iraq,http://www.wikidata.org/entity/Q920568,SOKO,all_links,1,SOKO -> Bosnia and Herzegovina
+iraq,http://www.wikidata.org/entity/Q920568,SOKO,controlish,1,SOKO -> Bosnia and Herzegovina
+kosovo_1999,http://www.wikidata.org/entity/Q928183,SABCA,all_links,1,SABCA -> Q2534888
+kosovo_1999,http://www.wikidata.org/entity/Q928183,SABCA,all_links,2,SABCA -> Sabena Engineering -> Belgium
+kosovo_1999,http://www.wikidata.org/entity/Q928183,SABCA,all_links,2,SABCA -> Dassault Group -> France
+kosovo_1999,http://www.wikidata.org/entity/Q928183,SABCA,controlish,0,SABCA
+kosovo_1999,http://www.wikidata.org/entity/Q928183,SABCA,controlish,2,SABCA -> Sabena Engineering -> Belgium
+kosovo_1999,http://www.wikidata.org/entity/Q928183,SABCA,controlish,2,SABCA -> Dassault Group -> France
+ukraine,http://www.wikidata.org/entity/Q9386308,Niewiadów S.A.,all_links,0,Niewiadów S.A.
+ukraine,http://www.wikidata.org/entity/Q9386308,Niewiadów S.A.,controlish,0,Niewiadów S.A.
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q965259,PZL,all_links,1,PZL -> Poland
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q965259,PZL,controlish,1,PZL -> Poland
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q994,Tbilisi,all_links,0,Tbilisi
+iraq|kosovo_1999,http://www.wikidata.org/entity/Q994,Tbilisi,controlish,0,Tbilisi
+ukraine,http://www.wikidata.org/entity/Q994221,Hongdu,all_links,5,"Hongdu -> Aviation Industry Corporation of China, Ltd. -> State-owned Assets Supervision and Administration Commission of the State Council -> State Council of the People's Republic of China -> National People's Congress -> People's Republic of China"
+ukraine,http://www.wikidata.org/entity/Q994221,Hongdu,controlish,1,"Hongdu -> Aviation Industry Corporation of China, Ltd."
